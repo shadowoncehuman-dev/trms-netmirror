@@ -1,0 +1,2252 @@
+make scraper and crawler that scrap all metadta and vedio urls,images from this site [https://net27.cc/](https://net27.cc/) scrap all content and vedio urls from these and store in a proper manner to reuse it and vedio play properly. fetch one then save then another save then another fetch. fetch every content from site and stay updated if new thing added update instantly. ex to fetch [https://net27.cc/#w=634649-movie](https://net27.cc/#w=634649-movie) V
+
+Back
+
+Spider-Man: No Way Home 2021 . Movie
+
+Server 1 v
+
+X
+
+Choose a server Server 1 recommended . Server 2 is a fallback
+
+Server 1
+
+stream ...
+
+Server 2 Back Spider-Man: No Way Home 2021 · Movie ↻
+
+Server 1 Request URL [https://net27-r2-cache.bupcdn74213.workers.dev/v1/3559038435602089312/s1/e1/480.mp4?exp=1785585502&sig=4d9f5813c172c9f2d62aab5780feff35408211d3c58dbdd4f232b4e635a2710b](https://net27-r2-cache.bupcdn74213.workers.dev/v1/3559038435602089312/s1/e1/480.mp4?exp=1785585502&sig=4d9f5813c172c9f2d62aab5780feff35408211d3c58dbdd4f232b4e635a2710b) Request Method GET Status Code 206 Partial Content Remote Address 104.21.52.118:443 Referrer Policy no-referrer accept-ranges bytes access-control-allow-origin * access-control-expose-headers content-range, content-length, accept-ranges, etag alt-svc h3=":443"; ma=86400 cache-control public, max-age=31536000, immutable cf-ray a241ec93380ca5d3-DEL content-length 1301550666 content-range bytes 0-1301550665/1301550666 content-type video/mp4 date Sat, 01 Aug 2026 03:58:23 GMT etag "cc55ec79894ac6fa12c6e01446e58edf" nel {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} report-to {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"[https://a.nel.cloudflare.com/report/v4?s=OVqXLu5rnmdwVYAEh2n%2BbYgon6s7Uptv4r7gsjGe2sbP0H%2BVdFiIniv%2FSiKNNFuJo7MDuPRhTgWGE9mytT281voINTXj%2B4jyPqpoGQ9u6%2FzLiZU3ogAwi%2BpklM7xhuPTc9dwbY75ok78J0KyOZofD0ywqdr8rgxF1A%3D%3D](https://a.nel.cloudflare.com/report/v4?s=OVqXLu5rnmdwVYAEh2n%2BbYgon6s7Uptv4r7gsjGe2sbP0H%2BVdFiIniv%2FSiKNNFuJo7MDuPRhTgWGE9mytT281voINTXj%2B4jyPqpoGQ9u6%2FzLiZU3ogAwi%2BpklM7xhuPTc9dwbY75ok78J0KyOZofD0ywqdr8rgxF1A%3D%3D)"}]} server cloudflare :authority net27-r2-cache.bupcdn74213.workers.dev :method GET :path /v1/3559038435602089312/s1/e1/480.mp4?exp=1785585502&sig=4d9f5813c172c9f2d62aab5780feff35408211d3c58dbdd4f232b4e635a2710b :scheme https accept */* accept-encoding identity;q=1, *;q=0 accept-language en-US,en;q=0.9 priority i range bytes=0- sec-ch-ua "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150" sec-ch-ua-mobile ?0 sec-ch-ua-platform "Windows" sec-fetch-dest video sec-fetch-mode no-cors sec-fetch-site cross-site sec-fetch-storage-access active user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+
+`        <track default="" kind="metadata" src="blob:https://net27.cc/d43dce66-3f8c-4805-9ac6-28e1bfae9f3c" label="Artplayer"></video>        Back`
+
+Lock Upp 2022 · Series S2 · E1
+
+Default ▾ Default ✓ Original Audio(original) ↻
+
+Server 1 Season
+
+Season 2 · 29 episodes Episodes 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+
+[https://net27.cc/#w=158282-tv](https://net27.cc/#w=158282-tv) for series type or season typr content properly fetch season,episodes, servers,languages episode example Request URL [https://net27-r2-cache.bupcdn74213.workers.dev/v1/4366573831499252064/s2/e1/480.mp4?exp=1785585679&sig=809d512638251ba233927f69826901a7929f8a2ebc15a181c2106e7c75c4b9ef](https://net27-r2-cache.bupcdn74213.workers.dev/v1/4366573831499252064/s2/e1/480.mp4?exp=1785585679&sig=809d512638251ba233927f69826901a7929f8a2ebc15a181c2106e7c75c4b9ef) Request Method GET Status Code 206 Partial Content (from disk cache) Remote Address 104.21.52.118:443 Referrer Policy no-referrer accept-ranges bytes access-control-allow-origin * access-control-expose-headers content-range, content-length, accept-ranges, etag alt-svc h3=":443"; ma=86400 cache-control public, max-age=31536000, immutable cf-ray a241f0e4bf559cd9-DEL content-length 423776587 content-range bytes 0-423776586/423776587 content-type video/mp4 date Sat, 01 Aug 2026 04:01:20 GMT etag "90d15769c0649c123ba7accc795350af" nel {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} report-to {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"[https://a.nel.cloudflare.com/report/v4?s=x4%2Bfy%2FX%2BKeoK1XjoPrUnC4VC7HmwY7V5T3gwKrSWYmJt32QD%2FU6DzaS29F4zBp7fzayYYOwhr3vUr6UaUmfFZl5hhpu%2FwG0RtYYQF8Z%2BlE%2Bef0UuxXZFeYcAflJZQlrT0AoEQJ1PjwfMztZ2ithJV5QDBqztL%2BFvxw%3D%3D](https://a.nel.cloudflare.com/report/v4?s=x4%2Bfy%2FX%2BKeoK1XjoPrUnC4VC7HmwY7V5T3gwKrSWYmJt32QD%2FU6DzaS29F4zBp7fzayYYOwhr3vUr6UaUmfFZl5hhpu%2FwG0RtYYQF8Z%2BlE%2Bef0UuxXZFeYcAflJZQlrT0AoEQJ1PjwfMztZ2ithJV5QDBqztL%2BFvxw%3D%3D)"}]} server cloudflare accept-encoding identity;q=1, *;q=0 range bytes=0- referer sec-ch-ua "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150" sec-ch-ua-mobile ?0 sec-ch-ua-platform "Windows" user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 episode example Request URL [https://net27-r2-cache.bupcdn74213.workers.dev/v1/4366573831499252064/s2/e2/720.mp4?exp=1785585724&sig=aebf7ebd56486fbd4dbc750eda9d2f7adfc3f39b17d7d63246e082786814337d](https://net27-r2-cache.bupcdn74213.workers.dev/v1/4366573831499252064/s2/e2/720.mp4?exp=1785585724&sig=aebf7ebd56486fbd4dbc750eda9d2f7adfc3f39b17d7d63246e082786814337d) Request Method GET Status Code 206 Partial Content Remote Address 104.21.52.118:443 Referrer Policy no-referrer accept-ranges bytes access-control-allow-origin * access-control-expose-headers content-range, content-length, accept-ranges, etag alt-svc h3=":443"; ma=86400 cache-control public, max-age=31536000, immutable cf-ray a241f20779f9976b-DEL content-length 955232763 content-range bytes 12386304-967619066/967619067 content-type video/mp4 date Sat, 01 Aug 2026 04:02:06 GMT etag "21e6ef3d76177abaf55b30bd1d002803" nel {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} priority u=3,i report-to {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"[https://a.nel.cloudflare.com/report/v4?s=pnxuSQ1sbVQ1sYef0PRuaI7WBKuQcSAqjy9fhsCnilOgyQjdQTgnNSXHx%2FU3LFwtpziSfFWhQcODgYMzLBVgYmwAoNyW0X4%2FKx7KSLx1ZtJZd0aSdQPejLrs6aoptCWSGBiyLS0dPxfMESZmfBaESP7e4NERUky8iA%3D%3D](https://a.nel.cloudflare.com/report/v4?s=pnxuSQ1sbVQ1sYef0PRuaI7WBKuQcSAqjy9fhsCnilOgyQjdQTgnNSXHx%2FU3LFwtpziSfFWhQcODgYMzLBVgYmwAoNyW0X4%2FKx7KSLx1ZtJZd0aSdQPejLrs6aoptCWSGBiyLS0dPxfMESZmfBaESP7e4NERUky8iA%3D%3D)"}]} server cloudflare server-timing cfExtPri :authority net27-r2-cache.bupcdn74213.workers.dev :method GET :path /v1/4366573831499252064/s2/e2/720.mp4?exp=1785585724&sig=aebf7ebd56486fbd4dbc750eda9d2f7adfc3f39b17d7d63246e082786814337d :scheme https accept */* accept-encoding identity;q=1, *;q=0 accept-language en-US,en;q=0.9 if-range "21e6ef3d76177abaf55b30bd1d002803" priority i range bytes=12386304-967619066 sec-ch-ua "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150" sec-ch-ua-mobile ?0 sec-ch-ua-platform "Windows" sec-fetch-dest video sec-fetch-mode no-cors sec-fetch-site cross-site sec-fetch-storage-access active user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+
+fetch all NetMirror Search movies, shows, anime…
+
+Trending
+
+Latest Release Netflix Netflix Prime Video Prime Video JioHotstar JioHotstar SonyLIV SonyLIV Crunchyroll Crunchyroll
+
+Kids MX Player MX Player Top 10 Today, Trending Now,Latest Release, Hot New Releases, Bollywood, South Indian Hits, Indian Originals, Hollywood, Action Movies, Drama Series, Comedy, Thrillers, Sci-Fi, Romance, Horror, Animation & Family, Trending Globally — Coming Soon, etc more
+
+i also attached my apk also take hep also from it and if possible directly connect to db or api if possible other wise fetch
+
+NetMirror
+Search movies, shows, anime…
+
+Trending
+
+Latest Release
+Netflix
+Netflix
+Prime Video
+Prime Video
+JioHotstar
+JioHotstar
+SonyLIV
+SonyLIV
+Crunchyroll
+Crunchyroll
+
+Kids
+MX Player
+MX Player
+
+🔥 Trending Now
+Spider-Man: No Way Home
+⭐ 7.9
+2021
+·
+Movie
+HD
+Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
+Watch Now
+More Info
+U/A 13+
+Get the app
+Phone
+TV
+Telegram
+Top 10 Today
+
+1
+Spider-Man: Brand New Day8.1
+
+
+
+81% match
+Movie
+2
+Adarsh Baal Vidyalaya8.0Series
+
+
+
+80% match
+Series
+3
+Lock Upp8.7Series
+
+
+
+87% match
+Series
+4
+Musafir Cafe6.2Series
+
+
+
+62% match
+Series
+5
+The Odyssey7.9
+
+
+
+79% match
+Movie
+6
+The Mentalist8.4Series
+
+
+
+84% match
+Series
+7
+Stranger Things8.6Series
+
+
+
+86% match
+Series
+8
+Spider-Man: No Way Home7.9
+
+
+
+79% match
+Movie
+9
+Game of Thrones8.5Series
+
+
+
+85% match
+Series
+10
+FROM8.5Series
+
+
+
+85% match
+Series
+
+Trending Now
+
+Supergirl6.7
+
+
+
+67% match
+2026 · Movie
+Supergirl
+The Odyssey7.9
+
+
+
+79% match
+2026 · Movie
+The Odyssey
+Obsession8.3
+
+
+
+83% match
+2026 · Movie
+Obsession
+Avatar Aang: The Last Airbender9.4
+
+
+
+94% match
+2026 · Movie
+Avatar Aang: The Last Airbender
+Disclosure Day7.4
+
+
+
+74% match
+2026 · Movie
+Disclosure Day
+Backrooms7.1
+
+
+
+71% match
+2026 · Movie
+Backrooms
+The Devil's Mouth6.7
+
+
+
+67% match
+2026 · Movie
+The Devil's Mouth
+Masters of the Universe7.3
+
+
+
+73% match
+2026 · Movie
+Masters of the Universe
+Bleach8.4Series
+
+
+
+84% match
+2004 · Series
+Bleach
+Silo8.2Series
+
+
+
+82% match
+2023 · Series
+Silo
+House of the Dragon8.4Series
+
+
+
+84% match
+2022 · Series
+House of the Dragon
+Scary Movie6.5
+
+
+
+65% match
+2026 · Movie
+Scary Movie
+Leviticus6.4
+
+
+
+64% match
+2026 · Movie
+Leviticus
+Colony8.1
+
+
+
+81% match
+2026 · Movie
+Colony
+72 HOURS6.8
+
+
+
+68% match
+2026 · Movie
+72 HOURS
+Agent Kim Reactivated7.6Series
+
+
+
+76% match
+2026 · Series
+Agent Kim Reactivated
+
+Latest Release
+
+Dhurandhar7.1
+
+
+
+71% match
+2025 · Movie
+Dhurandhar
+Superman7.3
+
+
+
+73% match
+2025 · Movie
+Superman
+Avatar: Fire and Ash7.6
+
+
+
+76% match
+2025 · Movie
+Avatar: Fire and Ash
+Zootopia 27.7
+
+
+
+77% match
+2025 · Movie
+Zootopia 2
+Demon Slayer: Kimetsu no Yaiba Infinity Castle7.7
+
+
+
+77% match
+2025 · Movie
+Demon Slayer: Kimetsu no Yaiba Infinity Castle
+Predator: Badlands7.8
+
+
+
+78% match
+2025 · Movie
+Predator: Badlands
+The Housemaid7.3
+
+
+
+73% match
+2025 · Movie
+The Housemaid
+Scream 76.2
+
+
+
+62% match
+2026 · Movie
+Scream 7
+
+Hot New Releases
+
+Kalki 2898-AD6.4
+
+
+
+64% match
+2024 · Movie
+Kalki 2898-AD
+Pushpa 2 - The Rule6.3
+
+
+
+63% match
+2024 · Movie
+Pushpa 2 - The Rule
+Stree 26.6
+
+
+
+66% match
+2024 · Movie
+Stree 2
+Deadpool & Wolverine7.6
+
+
+
+76% match
+2024 · Movie
+Deadpool & Wolverine
+Inside Out 27.5
+
+
+
+75% match
+2024 · Movie
+Inside Out 2
+Wicked6.9
+
+
+
+69% match
+2024 · Movie
+Wicked
+Gladiator II6.6
+
+
+
+66% match
+2024 · Movie
+Gladiator II
+Devara: Part 16.9
+
+
+
+69% match
+2024 · Movie
+Devara: Part 1
+Furiosa: A Mad Max Saga7.5
+
+
+
+75% match
+2024 · Movie
+Furiosa: A Mad Max Saga
+Civil War6.9
+
+
+
+69% match
+2024 · Movie
+Civil War
+
+Bollywood
+
+Dhurandhar7.1
+
+
+
+71% match
+2025 · Movie
+Dhurandhar
+Stree 26.6
+
+
+
+66% match
+2024 · Movie
+Stree 2
+Singham Again5.0
+
+
+
+50% match
+2024 · Movie
+Singham Again
+Bhool Bhulaiyaa 35.5
+
+
+
+55% match
+2024 · Movie
+Bhool Bhulaiyaa 3
+Bad Newz5.0
+
+
+
+50% match
+2024 · Movie
+Bad Newz
+Article 3706.9
+
+
+
+69% match
+2024 · Movie
+Article 370
+Yodha6.6
+
+
+
+66% match
+2024 · Movie
+Yodha
+Munjya6.1
+
+
+
+61% match
+2024 · Movie
+Munjya
+Jawan7.1
+
+
+
+71% match
+2023 · Movie
+Jawan
+Animal6.1
+
+
+
+61% match
+2023 · Movie
+Animal
+
+South Indian Hits
+
+Kalki 2898-AD6.4
+
+
+
+64% match
+2024 · Movie
+Kalki 2898-AD
+Pushpa 2 - The Rule6.3
+
+
+
+63% match
+2024 · Movie
+Pushpa 2 - The Rule
+Devara: Part 16.9
+
+
+
+69% match
+2024 · Movie
+Devara: Part 1
+RRR7.7
+
+
+
+77% match
+2022 · Movie
+RRR
+Pushpa: The Rise6.8
+
+
+
+68% match
+2021 · Movie
+Pushpa: The Rise
+Vikram7.5
+
+
+
+76% match
+2022 · Movie
+Vikram
+
+Indian Originals
+
+Welcome to the Jungle [Hindi][CAM]
+
+
+
+2026 · Movie
+Welcome to the Jungle [Hindi][CAM]
+Elle [Hindi]Series
+
+
+
+2026 · Series
+Elle [Hindi]
+Blast [Hindi]
+
+
+
+2026 · Movie
+Blast [Hindi]
+Cocktail 2 [Hindi][CAM]
+
+
+
+2026 · Movie
+Cocktail 2 [Hindi][CAM]
+Resort [Hindi]Series
+
+
+
+2026 · Series
+Resort [Hindi]
+Notes from the Last Row [Hindi]Series
+
+
+
+2026 · Series
+Notes from the Last Row [Hindi]
+Enola Holmes 3 [Hindi]
+
+
+
+2026 · Movie
+Enola Holmes 3 [Hindi]
+See You at Work Tomorrow! [Hindi]Series
+
+
+
+2026 · Series
+See You at Work Tomorrow! [Hindi]
+Masters of the Universe [Hindi]
+
+
+
+2026 · Movie
+Masters of the Universe [Hindi]
+The Sheep Detectives [Hindi]
+
+
+
+2026 · Movie
+The Sheep Detectives [Hindi]
+Obsess [Hindi][CAM]
+
+
+
+2026 · Movie
+Obsess [Hindi][CAM]
+Shree Baba Neeb Karori Maharaj [Hindi][CAM]
+
+
+
+2026 · Movie
+Shree Baba Neeb Karori Maharaj [Hindi][CAM]
+Indian Institute of Zombies [Hindi][CAM]
+
+
+
+2026 · Movie
+Indian Institute of Zombies [Hindi][CAM]
+Gaayapadda Simham [Hindi]
+
+
+
+2026 · Movie
+Gaayapadda Simham [Hindi]
+Main Actor Nahin Hoon [Hindi][CAM]
+
+
+
+2026 · Movie
+Main Actor Nahin Hoon [Hindi][CAM]
+Deep Water[CAM] [Hindi]
+
+
+
+2026 · Movie
+Deep Water[CAM] [Hindi]
+Desert Warrior [Hindi][CAM]
+
+
+
+2026 · Movie
+Desert Warrior [Hindi][CAM]
+Ginny Wedss Sunny 2 [Hindi]
+
+
+
+2026 · Movie
+Ginny Wedss Sunny 2 [Hindi]
+Star Wars: The Mandalorian and Grogu [Hindi]
+
+
+
+2026 · Movie
+Star Wars: The Mandalorian and Grogu [Hindi]
+In the Grey [Hindi][CAM] [Hindi]
+
+
+
+2026 · Movie
+In the Grey [Hindi][CAM] [Hindi]
+O' Romeo [Hindi]
+
+
+
+2026 · Movie
+O' Romeo [Hindi]
+Subedaar [Hindi]
+
+
+
+2026 · Movie
+Subedaar [Hindi]
+The Legend of Udham Singh [Hindi]
+
+
+
+2026 · Movie
+The Legend of Udham Singh [Hindi]
+Ramyaa [Hindi][CAM]
+
+
+
+2026 · Movie
+Ramyaa [Hindi][CAM]
+Kissa Court Kachahari Ka [Hindi][CAM]
+
+
+
+2026 · Movie
+Kissa Court Kachahari Ka [Hindi][CAM]
+Na Jaane Kaun Aa Gaya [Hindi][CAM]
+
+
+
+2026 · Movie
+Na Jaane Kaun Aa Gaya [Hindi][CAM]
+Made in Korea [Hindi]
+
+
+
+2026 · Movie
+Made in Korea [Hindi]
+Vishnu Vinyasam [Hindi]
+
+
+
+2026 · Movie
+Vishnu Vinyasam [Hindi]
+Lockdown [Hindi]
+
+
+
+2026 · Movie
+Lockdown [Hindi]
+War Machine [Hindi]
+
+
+
+2026 · Movie
+War Machine [Hindi]
+
+Hollywood
+
+Avatar: Fire and Ash7.5
+
+
+
+75% match
+2025 · Movie
+Avatar: Fire and Ash
+Deadpool & Wolverine7.6
+
+
+
+76% match
+2024 · Movie
+Deadpool & Wolverine
+Mission: Impossible - The Final Reckoning7.2
+
+
+
+72% match
+2025 · Movie
+Mission: Impossible - The Final Reckoning
+Inside Out 27.5
+
+
+
+75% match
+2024 · Movie
+Inside Out 2
+Wicked6.9
+
+
+
+69% match
+2024 · Movie
+Wicked
+Gladiator II6.6
+
+
+
+66% match
+2024 · Movie
+Gladiator II
+Furiosa: A Mad Max Saga7.5
+
+
+
+75% match
+2024 · Movie
+Furiosa: A Mad Max Saga
+Civil War6.9
+
+
+
+69% match
+2024 · Movie
+Civil War
+Twisters6.8
+
+
+
+68% match
+2024 · Movie
+Twisters
+Captain America: Brave New World6.0
+
+
+
+60% match
+2025 · Movie
+Captain America: Brave New World
+Jurassic World Rebirth6.3
+
+
+
+63% match
+2025 · Movie
+Jurassic World Rebirth
+
+Action Movies
+
+The Odyssey7.9
+
+
+
+79% match
+2026 · Movie
+The Odyssey
+Supergirl6.7
+
+
+
+67% match
+2026 · Movie
+Supergirl
+Masters of the Universe7.3
+
+
+
+73% match
+2026 · Movie
+Masters of the Universe
+The Death of Robin Hood6.6
+
+
+
+66% match
+2026 · Movie
+The Death of Robin Hood
+Avatar Aang: The Last Airbender9.4
+
+
+
+94% match
+2026 · Movie
+Avatar Aang: The Last Airbender
+Spider-Man: No Way Home7.9
+
+
+
+79% match
+2021 · Movie
+Spider-Man: No Way Home
+Colony8.1
+
+
+
+81% match
+2026 · Movie
+Colony
+Demon Slayer: Kimetsu no Yaiba Infinity Castle8.4
+
+
+
+84% match
+2025 · Movie
+Demon Slayer: Kimetsu no Yaiba Infinity Castle
+Kraken6.4
+
+
+
+64% match
+2026 · Movie
+Kraken
+Master of the Universe4.8
+
+
+
+48% match
+2026 · Movie
+Master of the Universe
+Spider-Man7.3
+
+
+
+73% match
+2002 · Movie
+Spider-Man
+Mortal Kombat II7.9
+
+
+
+79% match
+2026 · Movie
+Mortal Kombat II
+The Furious7.3
+
+
+
+73% match
+2026 · Movie
+The Furious
+Spider-Man: Homecoming7.3
+
+
+
+73% match
+2017 · Movie
+Spider-Man: Homecoming
+Avengers: Infinity War8.2
+
+
+
+82% match
+2018 · Movie
+Avengers: Infinity War
+Spider-Man: Far From Home7.4
+
+
+
+74% match
+2019 · Movie
+Spider-Man: Far From Home
+The Punisher: One Last Kill8.3
+
+
+
+83% match
+2026 · Movie
+The Punisher: One Last Kill
+Citizen Vigilante6.3
+
+
+
+63% match
+2026 · Movie
+Citizen Vigilante
+
+Drama Series
+
+House of the Dragon8.4Series
+
+
+
+84% match
+2022 · Series
+House of the Dragon
+The Rookie8.6Series
+
+
+
+86% match
+2018 · Series
+The Rookie
+Law & Order: Special Victims Unit8.0Series
+
+
+
+80% match
+1999 · Series
+Law & Order: Special Victims Unit
+Grey's Anatomy8.2Series
+
+
+
+82% match
+2005 · Series
+Grey's Anatomy
+FROM8.5Series
+
+
+
+85% match
+2022 · Series
+FROM
+Law & Order7.3Series
+
+
+
+73% match
+1990 · Series
+Law & Order
+Silo8.2Series
+
+
+
+82% match
+2023 · Series
+Silo
+Supernatural8.3Series
+
+
+
+83% match
+2005 · Series
+Supernatural
+NCIS7.6Series
+
+
+
+76% match
+2003 · Series
+NCIS
+Criminal Minds8.3Series
+
+
+
+83% match
+2005 · Series
+Criminal Minds
+Reacher8.1Series
+
+
+
+81% match
+2022 · Series
+Reacher
+Game of Thrones8.5Series
+
+
+
+85% match
+2011 · Series
+Game of Thrones
+Breaking Bad8.9Series
+
+
+
+89% match
+2008 · Series
+Breaking Bad
+Dexter8.2Series
+
+
+
+82% match
+2006 · Series
+Dexter
+Shameless8.2Series
+
+
+
+82% match
+2011 · Series
+Shameless
+CSI: Crime Scene Investigation7.6Series
+
+
+
+76% match
+2000 · Series
+CSI: Crime Scene Investigation
+Midsomer Murders7.5Series
+
+
+
+75% match
+1997 · Series
+Midsomer Murders
+
+Comedy
+
+Moana5.9
+
+
+
+59% match
+2026 · Movie
+Moana
+Toy Story 57.4
+
+
+
+74% match
+2026 · Movie
+Toy Story 5
+Minions & Monsters6.4
+
+
+
+64% match
+2026 · Movie
+Minions & Monsters
+Scary Movie6.5
+
+
+
+65% match
+2026 · Movie
+Scary Movie
+The Devil Wears Prada 27.1
+
+
+
+71% match
+2026 · Movie
+The Devil Wears Prada 2
+72 HOURS6.8
+
+
+
+68% match
+2026 · Movie
+72 HOURS
+The Super Mario Galaxy Movie8.3
+
+
+
+83% match
+2026 · Movie
+The Super Mario Galaxy Movie
+Hoppers8.2
+
+
+
+82% match
+2026 · Movie
+Hoppers
+The Sheep Detectives7.9
+
+
+
+79% match
+2026 · Movie
+The Sheep Detectives
+Zootopia 27.7
+
+
+
+77% match
+2025 · Movie
+Zootopia 2
+Toy Story8.0
+
+
+
+80% match
+1995 · Movie
+Toy Story
+Deadpool & Wolverine7.6
+
+
+
+76% match
+2024 · Movie
+Deadpool & Wolverine
+KPop Demon Hunters8.0
+
+
+
+80% match
+2025 · Movie
+KPop Demon Hunters
+Moana 27.0
+
+
+
+70% match
+2024 · Movie
+Moana 2
+
+Thrillers
+
+Disclosure Day7.4
+
+
+
+74% match
+2026 · Movie
+Disclosure Day
+Obsession8.3
+
+
+
+83% match
+2026 · Movie
+Obsession
+Kraken6.3
+
+
+
+63% match
+2026 · Movie
+Kraken
+Deep Water7.2
+
+
+
+72% match
+2026 · Movie
+Deep Water
+The Furious7.3
+
+
+
+73% match
+2026 · Movie
+The Furious
+The Devil's Mouth6.7
+
+
+
+67% match
+2026 · Movie
+The Devil's Mouth
+Hungry7.1
+
+
+
+71% match
+2026 · Movie
+Hungry
+Citizen Vigilante6.3
+
+
+
+63% match
+2026 · Movie
+Citizen Vigilante
+Shelter7.8
+
+
+
+78% match
+2026 · Movie
+Shelter
+War of the Worlds4.1
+
+
+
+41% match
+2025 · Movie
+War of the Worlds
+The Shadow's Edge7.9
+
+
+
+79% match
+2025 · Movie
+The Shadow's Edge
+Passenger7.3
+
+
+
+73% match
+2026 · Movie
+Passenger
+Apex6.9
+
+
+
+69% match
+2026 · Movie
+Apex
+Forgive Us All5.7
+
+
+
+57% match
+2025 · Movie
+Forgive Us All
+Fight Club8.4
+
+
+
+84% match
+1999 · Movie
+Fight Club
+Captain America: Brave New World6.0
+
+
+
+60% match
+2025 · Movie
+Captain America: Brave New World
+
+Sci-Fi
+
+Supergirl6.7
+
+
+
+67% match
+2026 · Movie
+Supergirl
+Masters of the Universe7.3
+
+
+
+73% match
+2026 · Movie
+Masters of the Universe
+Disclosure Day7.4
+
+
+
+74% match
+2026 · Movie
+Disclosure Day
+Backrooms7.1
+
+
+
+71% match
+2026 · Movie
+Backrooms
+Spider-Man: No Way Home7.9
+
+
+
+79% match
+2021 · Movie
+Spider-Man: No Way Home
+Colony8.1
+
+
+
+81% match
+2026 · Movie
+Colony
+Project Hail Mary8.7
+
+
+
+87% match
+2026 · Movie
+Project Hail Mary
+Master of the Universe4.8
+
+
+
+48% match
+2026 · Movie
+Master of the Universe
+Spider-Man7.3
+
+
+
+73% match
+2002 · Movie
+Spider-Man
+Avatar: Fire and Ash7.6
+
+
+
+76% match
+2025 · Movie
+Avatar: Fire and Ash
+Spider-Man: Homecoming7.3
+
+
+
+73% match
+2017 · Movie
+Spider-Man: Homecoming
+Avengers: Infinity War8.2
+
+
+
+82% match
+2018 · Movie
+Avengers: Infinity War
+Spider-Man: Far From Home7.4
+
+
+
+74% match
+2019 · Movie
+Spider-Man: Far From Home
+Hoppers8.2
+
+
+
+82% match
+2026 · Movie
+Hoppers
+War of the Worlds4.1
+
+
+
+41% match
+2025 · Movie
+War of the Worlds
+The Avengers8.1
+
+
+
+81% match
+2012 · Movie
+The Avengers
+
+Romance
+
+Your Heart Will Be Broken7.1
+
+
+
+71% match
+2026 · Movie
+Your Heart Will Be Broken
+Leviticus6.4
+
+
+
+64% match
+2026 · Movie
+Leviticus
+Boulevard7.5
+
+
+
+75% match
+2026 · Movie
+Boulevard
+The Drama6.9
+
+
+
+69% match
+2026 · Movie
+The Drama
+Voicemails for Isabelle8.4
+
+
+
+84% match
+2026 · Movie
+Voicemails for Isabelle
+Forrest Gump8.5
+
+
+
+85% match
+1994 · Movie
+Forrest Gump
+My Fault7.7
+
+
+
+77% match
+2023 · Movie
+My Fault
+The Invite7.8
+
+
+
+78% match
+2026 · Movie
+The Invite
+Damage6.6
+
+
+
+66% match
+1992 · Movie
+Damage
+The Gorge7.7
+
+
+
+77% match
+2025 · Movie
+The Gorge
+Top Gun7.1
+
+
+
+71% match
+1986 · Movie
+Top Gun
+Our Fault7.4
+
+
+
+74% match
+2025 · Movie
+Our Fault
+Heartstopper Forever7.3
+
+
+
+73% match
+2026 · Movie
+Heartstopper Forever
+Chainsaw Man - The Movie: Reze Arc8.5
+
+
+
+85% match
+2025 · Movie
+Chainsaw Man - The Movie: Reze Arc
+The Notebook7.9
+
+
+
+79% match
+2004 · Movie
+The Notebook
+Your Fault: London7.5
+
+
+
+75% match
+2026 · Movie
+Your Fault: London
+Your Name.8.5
+
+
+
+85% match
+2016 · Movie
+Your Name.
+
+Horror
+
+Obsession8.3
+
+
+
+83% match
+2026 · Movie
+Obsession
+Backrooms7.1
+
+
+
+71% match
+2026 · Movie
+Backrooms
+Colony8.1
+
+
+
+81% match
+2026 · Movie
+Colony
+Kraken6.4
+
+
+
+64% match
+2026 · Movie
+Kraken
+Leviticus6.4
+
+
+
+64% match
+2026 · Movie
+Leviticus
+Deep Water7.2
+
+
+
+72% match
+2026 · Movie
+Deep Water
+The Devil's Mouth6.7
+
+
+
+67% match
+2026 · Movie
+The Devil's Mouth
+Lee Cronin's The Mummy7.9
+
+
+
+79% match
+2026 · Movie
+Lee Cronin's The Mummy
+Hungry7.1
+
+
+
+71% match
+2026 · Movie
+Hungry
+Passenger7.3
+
+
+
+73% match
+2026 · Movie
+Passenger
+Forgive Us All5.7
+
+
+
+57% match
+2025 · Movie
+Forgive Us All
+Black Box6.2
+
+
+
+62% match
+2026 · Movie
+Black Box
+Sinners7.5
+
+
+
+75% match
+2025 · Movie
+Sinners
+28 Years Later: The Bone Temple7.1
+
+
+
+71% match
+2026 · Movie
+28 Years Later: The Bone Temple
+The Substance7.1
+
+
+
+71% match
+2024 · Movie
+The Substance
+Send Help7.0
+
+
+
+70% match
+2026 · Movie
+Send Help
+Evil Dead Rise7.0
+
+
+
+70% match
+2023 · Movie
+Evil Dead Rise
+
+Animation & Family
+
+Avatar Aang: The Last Airbender9.4
+
+
+
+94% match
+2026 · Movie
+Avatar Aang: The Last Airbender
+Toy Story 57.4
+
+
+
+74% match
+2026 · Movie
+Toy Story 5
+Minions & Monsters6.4
+
+
+
+64% match
+2026 · Movie
+Minions & Monsters
+Demon Slayer: Kimetsu no Yaiba Infinity Castle8.4
+
+
+
+84% match
+2025 · Movie
+Demon Slayer: Kimetsu no Yaiba Infinity Castle
+The Super Mario Galaxy Movie8.3
+
+
+
+83% match
+2026 · Movie
+The Super Mario Galaxy Movie
+Swapped8.9
+
+
+
+89% match
+2026 · Movie
+Swapped
+Hoppers8.2
+
+
+
+82% match
+2026 · Movie
+Hoppers
+Spider-Man: Into the Spider-Verse8.4
+
+
+
+84% match
+2018 · Movie
+Spider-Man: Into the Spider-Verse
+Zootopia 27.7
+
+
+
+77% match
+2025 · Movie
+Zootopia 2
+Spider-Man: Across the Spider-Verse8.3
+
+
+
+83% match
+2023 · Movie
+Spider-Man: Across the Spider-Verse
+Toy Story8.0
+
+
+
+80% match
+1995 · Movie
+Toy Story
+The Wild Robot8.3
+
+
+
+83% match
+2024 · Movie
+The Wild Robot
+KPop Demon Hunters8.0
+
+
+
+80% match
+2025 · Movie
+KPop Demon Hunters
+Moana 27.0
+
+
+
+70% match
+2024 · Movie
+Moana 2
+WALL·E8.1
+
+
+
+81% match
+2008 · Movie
+WALL·E
+GOAT8.1
+
+
+
+81% match
+2026 · Movie
+GOAT
+Coraline7.9
+
+
+
+79% match
+2009 · Movie
+Coraline
+The Bad Guys 27.6
+
+
+
+76% match
+2025 · Movie
+The Bad Guys 2
+Spirited Away8.5
+
+
+
+85% match
+2001 · Movie
+Spirited Away
+Big Hero 67.7
+
+
+
+77% match
+2014 · Movie
+Big Hero 6
+
+Trending Globally — Coming Soon
+
+Spider-Man: Brand New Day8.0
+
+
+
+80% match
+2026 · Movie
+Spider-Man: Brand New Day
+The Mandalorian and Grogu7.4
+
+
+
+74% match
+2026 · Movie
+The Mandalorian and Grogu
+The Dink6.2
+
+
+
+62% match
+2026 · Movie
+The Dink
+Stuart Fails to Save the Universe9.2Series
+
+
+
+92% match
+2026 · Series
+Stuart Fails to Save the Universe
+
+Can't find what you're looking for?
+Search any movie or show by name — instant results from 500k+ titles.
+
+Search Now
+Try: "Stranger Things" · "Dhurandhar" · "Squid Game" · "Oppenheimer"
+
+NetMirror
+Movies, shows & anime · Multi-language audio · 500k+ titles
+✕
+
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="clckd" content="502623715d0616ada312531d38452d6c"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#000000"><meta name="description" content="Stream movies and shows. Personal streaming hub."><!-- (Cache-control meta tags removed — they're ignored by WebKit on
+         the document itself, and the service worker handles staleness
+         for installed PWAs. Removing them saves render-blocking parse
+         time on every page load.) --><!-- ─── Search engine indexing — blocked sitewide ─── --><!-- Anti-DMCA defense: copyright watchers search Google for piracy URLs.
+         No indexing = no Google = no easy DMCA discovery. Combined with
+         robots.txt this gives ~85% reduction in bot-based takedown traffic. --><meta name="robots" content="noindex, nofollow, nocache, noarchive, nosnippet, noimageindex"><meta name="googlebot" content="noindex, nofollow"><meta name="bingbot" content="noindex, nofollow"><!-- LCP preload — fetched in parallel with HTML, drops perceived load
+         time by 300-500ms because browser doesn't wait for image discovery
+         in the rendered DOM. --><link rel="preload" as="image" href="https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg" fetchpriority="high"><!-- DNS prefetch + preconnect to image CDNs (TMDB images) for faster
+         first connection — saves ~200ms on the first poster/backdrop. --><link rel="dns-prefetch" href="https://image.tmdb.org"><link rel="preconnect" href="https://image.tmdb.org" crossorigin><!-- ─── PWA manifest + favicons ─── --><link rel="manifest" href="/manifest.json"><!-- Brand favicon — takes precedence so each brand shows its own mark
+         (Cineby = red play button). Generic PNG icons below as fallback. --><link rel="icon" href="/icons/icon-32.png"><link rel="icon" type="image/png" sizes="32x32" href="/icons/icon-32.png"><link rel="icon" type="image/png" sizes="16x16" href="/icons/icon-16.png"><link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png"><!-- ─── iOS Safari PWA support — Add to Home Screen ─── --><!-- Tells iOS Safari this app supports standalone mode (full-screen) --><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><!-- Status bar style: "default" — iOS reserves the status bar area
+         itself instead of overlaying it on our content. Tried
+         "black-translucent" earlier but it was the #1 source of layout
+         bugs (env(safe-area-inset-top) returns 0 on first paint per
+         WebKit bug 191872, backdrop-blur conflicts, sticky-position
+         clipping on iOS 18+). "default" is the boring, reliable choice:
+         we lose the edge-to-edge cosmetic but the navbar / search /
+         buttons all sit cleanly BELOW the status bar without any
+         env() / max() / sticky gymnastics. --><meta name="apple-mobile-web-app-status-bar-style" content="default"><!-- Home-screen title (different from <title> which is the tab title) --><meta name="apple-mobile-web-app-title" content="NetMirror"><!-- iOS reads this for the home-screen icon — 180x180 is iPhone optimal --><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-180.png"><!-- iPhone splash screen while app loads (matches our black bg) --><meta name="format-detection" content="telephone=no"><style type="text/css">@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}</style><title>NetMirror — Movies &amp; Shows in 200+ Languages</title><!-- Minimal PWA detection (tags <html> for CSS conditional rules)
+         + cold-start URL recovery. Stripped of all comments for
+         smaller render-blocking parse cost. --><script>(function(){try{var s=(window.matchMedia&&window.matchMedia("(display-mode: standalone)").matches)||window.navigator.standalone===true;if(!s)return;var d=document.documentElement;d.classList.add("pwa-standalone");var ih=window.innerHeight||0,sh=(window.screen&&window.screen.height)||0;if(sh>0&&Math.abs(ih-sh)<5)d.classList.add("content-under-status-bar");if(!sessionStorage.getItem("pwa.launched")){sessionStorage.setItem("pwa.launched","1");if(!/^\/(library|login|search|watch-tmdb|$)/.test(location.pathname))location.replace("/?utm_source=pwa");}}catch(e){}})();</script><link rel="stylesheet" href="/_astro/Layout.DtKIDK6r.css">
+<link rel="stylesheet" href="/_astro/index.P3dZcbru.css"></head> <body class="min-h-dvh flex flex-col overflow-x-hidden"> <!-- ─── Branded honeycomb loading screen ─── --> <div id="nm-loader" aria-hidden="true"> <div class="nm-hive" id="nm-hive"></div> <div class="nm-loader-n">N</div> </div> <style>
+      #nm-loader{position:fixed;inset:0;z-index:99999;background:#0b0b0f;display:flex;align-items:center;justify-content:center;transition:opacity .45s ease;}
+      #nm-loader.nm-hide{opacity:0;pointer-events:none;}
+      #nm-loader .nm-hive{position:relative;width:210px;height:210px;}
+      #nm-loader .nm-hex{position:absolute;width:27px;height:31px;transform:translate(-50%,-50%);clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);background:rgba(255,255,255,.07);animation:nmHexPulse 1.5s ease-in-out infinite;}
+      #nm-loader .nm-loader-n{position:absolute;font-weight:900;font-size:46px;color:#e50914;text-shadow:0 0 18px rgba(229,9,20,.55);font-family:system-ui,-apple-system,sans-serif;letter-spacing:-2px;}
+      @keyframes nmHexPulse{0%,100%{background:rgba(255,255,255,.07);transform:translate(-50%,-50%) scale(.92);}45%{background:#e50914;box-shadow:0 0 14px rgba(229,9,20,.5);transform:translate(-50%,-50%) scale(1);}}
+    </style> <script>
+      (function(){
+        var hive=document.getElementById('nm-hive'); if(!hive) return;
+        var S=16, cx=105, cy=105, R=2;
+        for(var q=-R;q<=R;q++){ for(var r=Math.max(-R,-q-R); r<=Math.min(R,-q+R); r++){
+          var x=cx + S*Math.sqrt(3)*(q + r/2), y=cy + S*1.5*r;
+          var ring=(Math.abs(q)+Math.abs(r)+Math.abs(q+r))/2;
+          var h=document.createElement('div'); h.className='nm-hex';
+          h.style.left=x+'px'; h.style.top=y+'px'; h.style.animationDelay=(ring*0.16)+'s';
+          hive.appendChild(h);
+        }}
+        var loader=document.getElementById('nm-loader'); var start=Date.now();
+        function hide(){ var wait=Math.max(0,500-(Date.now()-start)); setTimeout(function(){ if(!loader)return; loader.classList.add('nm-hide'); setTimeout(function(){ loader.style.display='none'; },500); }, wait); }
+        window.__nmHideLoader=hide;
+        if(document.readyState==='complete') hide(); else window.addEventListener('load', hide);
+      })();
+    </script>  <main class="flex-1">  <div class="min-h-dvh bg-[#0a0a0f] text-white relative"> <!-- Per-platform color wash. Fixed at top, fades down. JS updates --accent
+         on platform click; transition gives a smooth crossfade. --> <div id="theme-wash" class="pointer-events-none fixed inset-x-0 top-0 h-[60vh] z-0 transition-opacity duration-700" style="background: radial-gradient(ellipse at top, var(--accent, #ff6b00) 0%, transparent 65%); opacity: 0.18;"></div> <!-- Top progress bar: shows while any fetch is in flight (YouTube/NProgress style) --> <div id="progress-bar" class="fixed top-0 left-0 h-[3px] z-[60] pointer-events-none transition-opacity duration-200" style="background: var(--accent, #ff6b00); width: 0; opacity: 0; box-shadow: 0 0 10px var(--accent, #ff6b00);"></div> <div class="relative z-10"> <!-- Sticky header.
+         INLINE padding-top with max(env(...), 44px) floor — handles
+         iPhone PWA where the status bar overlays our content. Inline
+         style ships byte-for-byte in the HTML response (same as the
+         modal back-bar which works reliably), so it bypasses every
+         caching / Tailwind-JIT / CSS-bundling / class-detection issue
+         that broke the dozen previous attempts.
+
+         max() with 44px floor: covers both the env-returns-0
+         first-paint race (WebKit bug 191872) AND cached old-install
+         users whose iOS still draws content under the status bar. --> <header id="home-header" class="fixed top-0 inset-x-0 z-40"> <div class="px-3 sm:px-6 py-3 flex items-center gap-3"> <a href="/" class="flex items-center gap-2 shrink-0"> <span class="text-xl sm:text-2xl font-black tracking-tight"> <span class="text-[color:var(--color-brand)]">Net</span>Mirror
+</span> </a> <div class="relative flex-1 max-w-xl mx-auto"> <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-white/40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"> <circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path> </svg> <input id="search-input" type="search" placeholder="Search movies, shows, anime…" class="w-full pl-9 pr-9 py-2 rounded-full bg-white/10 border border-white/10 placeholder:text-white/40 focus:outline-none focus:border-white/30 focus:bg-white/15 transition" style="font-size: 16px;"> <button id="search-clear" type="button" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-white/40 hover:text-white text-sm w-5 h-5 rounded-full flex items-center justify-center">✕</button> </div> <!-- Expose the auth-enabled flag to client JS (watchlist wiring). --> <script>(function(){const __ae = false;
+window.__AUTH_ENABLED__ = __ae;})();</script> <!-- Auth pill — hidden entirely when login disabled (BRAND.authEnabled) -->  </div> <div class="px-3 sm:px-6 pb-3 flex gap-2 overflow-x-auto scrollbar-none"> <button data-platform="trending" data-color="#ff6b00" style="--pc:#ff6b00" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <span class="w-7 h-7 rounded-full shrink-0 flex items-center justify-center bg-gradient-to-br from-amber-400 to-red-500 shadow-sm"> <svg viewBox="0 0 24 24" class="w-4 h-4 text-white" fill="currentColor" aria-hidden="true"> <path d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z"></path> </svg> </span> <span>Trending</span> </button><button data-platform="LatestRelease" data-color="#22c55e" style="--pc:#22c55e" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <span class="w-7 h-7 rounded-full shrink-0 flex items-center justify-center shadow-sm" style="background: linear-gradient(135deg, #22c55e 0%, rgba(0,0,0,0.4) 100%);"> <svg viewBox="0 0 24 24" class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/></svg> </span> <span>Latest Release</span> </button><button data-platform="Netflix" data-color="#e50914" style="--pc:#e50914" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg" alt="Netflix" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>Netflix</span> </button><button data-platform="PrimeVideo" data-color="#00a8e1" style="--pc:#00a8e1" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg" alt="Prime Video" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>Prime Video</span> </button><button data-platform="JioHotstar" data-color="#2b6def" style="--pc:#2b6def" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/kVqjgpcwvDJOhCupjcLzwwtOp52.jpg" alt="JioHotstar" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>JioHotstar</span> </button><button data-platform="SonyLIV" data-color="#9b5de5" style="--pc:#9b5de5" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/3973zlBbBXdXxaWqRWzGG2GYxbT.jpg" alt="SonyLIV" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>SonyLIV</span> </button><button data-platform="Crunchyroll" data-color="#f47521" style="--pc:#f47521" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg" alt="Crunchyroll" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>Crunchyroll</span> </button><button data-platform="Kids" data-color="#ff4fa3" style="--pc:#ff4fa3" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <span class="w-7 h-7 rounded-full shrink-0 flex items-center justify-center shadow-sm" style="background: linear-gradient(135deg, #ff4fa3 0%, rgba(0,0,0,0.4) 100%);"> <svg viewBox="0 0 24 24" class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" x2="9.01" y1="9" y2="9"/><line x1="15" x2="15.01" y1="9" y2="9"/></svg> </span> <span>Kids</span> </button><button data-platform="MX" data-color="#0085f6" style="--pc:#0085f6" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/ayHY6wKxvCKj2PU8eRPFxnPc6B0.jpg" alt="MX Player" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>MX Player</span> </button> </div> </header> <!-- PWA-only top safe-area. In a standalone (installed) app the status
+         bar / dynamic island overlays the page, so without this the search +
+         pills land under the notch/notification area and can't be tapped.
+         In a normal web browser there's NO notch, so we add no top padding —
+         that removes the empty gap above the search bar. JS (not a CSS media
+         query) because env() in `@media (display-mode: standalone)` has been
+         unreliable on cached iOS PWA installs (WebKit bug 191872). Runs inline
+         the moment the header is parsed, before first paint. --> <script>
+      (function () {
+        try {
+          var standalone =
+            (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) ||
+            window.navigator.standalone === true;
+          if (!standalone) return;
+          var h = document.getElementById('home-header');
+          if (!h) return;
+          h.style.setProperty('padding-top', 'max(env(safe-area-inset-top, 0px), 44px)', 'important');
+        } catch (e) {}
+      })();
+    </script> <!-- Hero carousel: 5 rotating featured titles --> <section id="hero" class="relative h-[64vh] sm:h-[80vh] min-h-[520px] sm:min-h-[680px] max-h-[940px] overflow-hidden" style="padding-top: calc(env(safe-area-inset-top, 0px) + 150px);" data-hero="[{&quot;tmdbId&quot;:328402,&quot;title&quot;:&quot;Adarsh Baal Vidyalaya&quot;,&quot;year&quot;:&quot;&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg&quot;,&quot;overview&quot;:&quot;A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.&quot;,&quot;rating&quot;:8,&quot;type&quot;:&quot;tv&quot;},{&quot;tmdbId&quot;:158282,&quot;title&quot;:&quot;Lock Upp&quot;,&quot;year&quot;:&quot;&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/original/h3E2I2etWs5l7OCsRLU9Bz3cSnK.jpg&quot;,&quot;overview&quot;:&quot;Lockupp is a 24*7 captive reality show which has 16 celebrities locked inside the queen’s jail for 72 days. Who will survive the badass jail and play atyachaari khel?&quot;,&quot;rating&quot;:8.7,&quot;type&quot;:&quot;tv&quot;},{&quot;tmdbId&quot;:634649,&quot;title&quot;:&quot;Spider-Man: No Way Home&quot;,&quot;year&quot;:&quot;2021&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg&quot;,&quot;overview&quot;:&quot;Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.&quot;,&quot;rating&quot;:7.934,&quot;type&quot;:&quot;movie&quot;},{&quot;tmdbId&quot;:1311031,&quot;title&quot;:&quot;Demon Slayer: Kimetsu no Yaiba Infinity Castle&quot;,&quot;year&quot;:&quot;2025&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg&quot;,&quot;overview&quot;:&quot;The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.&quot;,&quot;rating&quot;:8.445,&quot;type&quot;:&quot;movie&quot;},{&quot;tmdbId&quot;:687163,&quot;title&quot;:&quot;Project Hail Mary&quot;,&quot;year&quot;:&quot;2026&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg&quot;,&quot;overview&quot;:&quot;Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.&quot;,&quot;rating&quot;:8.662,&quot;type&quot;:&quot;movie&quot;},{&quot;tmdbId&quot;:1007757,&quot;title&quot;:&quot;Swapped&quot;,&quot;year&quot;:&quot;2026&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg&quot;,&quot;overview&quot;:&quot;A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.&quot;,&quot;rating&quot;:8.893,&quot;type&quot;:&quot;movie&quot;}]"> <!-- Crossfade backdrop layers --> <div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg&quot;); opacity: 1; z-index: 10" data-hero-idx="0"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/original/h3E2I2etWs5l7OCsRLU9Bz3cSnK.jpg&quot;); opacity: 0; z-index: 9" data-hero-idx="1"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg&quot;); opacity: 0; z-index: 8" data-hero-idx="2"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg&quot;); opacity: 0; z-index: 7" data-hero-idx="3"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg&quot;); opacity: 0; z-index: 6" data-hero-idx="4"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg&quot;); opacity: 0; z-index: 5" data-hero-idx="5"></div> <!-- Clickable overlay — entire hero image opens the title modal so
+           users can tap anywhere on the poster (not just buttons). Sits
+           BELOW the gradient masks + content layers but ABOVE the bg images.
+           id="hero-click" lets the slide-changer JS keep its data-* attrs in
+           sync with whatever hero item is currently visible. --> <button id="hero-click" type="button" data-modal="title" data-tmdbid="328402" data-type="tv" aria-label="More info for Adarsh Baal Vidyalaya" class="absolute inset-0 z-[15] cursor-pointer bg-transparent border-0"></button> <!-- Gradient masks for legibility --> <div class="absolute inset-0 bg-gradient-to-t from-[#0a0a0f] via-[#0a0a0f]/40 to-transparent pointer-events-none z-20"></div> <div class="absolute inset-0 bg-gradient-to-r from-[#0a0a0f] via-[#0a0a0f]/30 to-transparent pointer-events-none z-20"></div> <!-- Hero content (text rotates with the bg). The outer container is
+           pointer-events-none so empty areas around the text don't block
+           clicks on the hero-click overlay underneath. Inner content has
+           pointer-events-auto so buttons + text remain interactive. --> <div class="relative z-30 h-full flex items-end pb-8 sm:pb-16 pointer-events-none"> <div class="px-4 sm:pl-16 sm:pr-8 max-w-3xl pointer-events-auto"> <div class="text-[10px] sm:text-xs uppercase tracking-[0.3em] text-[color:var(--color-brand)] font-bold mb-2">
+🔥 Trending Now
+</div> <!-- min-h reserves space for the worst-case 2-line title so the
+               layout doesn't shift when the carousel rotates from a
+               short title ("Mortal Kombat") to a long one ("The Devil
+               Wears Prada"). Same logic for the description's 2/3 lines.
+               Was the #1 CLS contributor on PageSpeed (0.306 → target <0.1). --> <!-- Official title-logo (premium, net52-style). Shown when TMDB has
+               one; falls back to the text <h1> below otherwise. --> <img id="hero-logo" alt="" class="hidden mb-3 h-auto max-h-[84px] sm:max-h-[150px] w-auto max-w-[80%] sm:max-w-[460px] object-contain object-left" style="filter: drop-shadow(0 3px 16px rgba(0,0,0,0.7));"> <h1 id="hero-title" class="text-3xl sm:text-5xl md:text-6xl font-black mb-3 leading-[1.05] tracking-tight min-h-[2.1em]" style="text-shadow: 0 2px 24px rgba(0,0,0,0.6);"> Adarsh Baal Vidyalaya </h1> <div id="hero-meta" class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs sm:text-sm text-white/85 mb-3 font-medium min-h-[1.5em]"> <span class="px-1.5 py-0.5 rounded bg-yellow-400/90 text-black font-bold text-[11px]">⭐ 8.0</span><span></span> <span>·</span> <span class="uppercase tracking-wider">Series</span> <span class="px-1.5 py-0.5 rounded bg-white/15 text-[10px] tracking-wider">HD</span>  </div> <div id="hero-desc" class="text-sm sm:text-base text-white/85 max-w-2xl mb-5 line-clamp-2 sm:line-clamp-3 leading-relaxed min-h-[3em] sm:min-h-[4.5em]" style="text-shadow: 0 1px 8px rgba(0,0,0,0.6);"> A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time. </div> <div class="flex flex-wrap gap-3">  <a id="hero-play" href="#" data-modal="watch" data-tmdbid="328402" data-type="tv" data-backdrop="https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg" class="inline-flex items-center gap-2 px-5 sm:px-7 py-2.5 sm:py-3 rounded-md bg-white text-black font-bold hover:bg-white/90 active:scale-95 transition text-sm sm:text-base shadow-xl"> <svg class="w-4 h-4 sm:w-5 sm:h-5" viewBox="0 0 24 24" fill="currentColor"> <path d="M8 5v14l11-7z"></path> </svg>
+Watch Now
+</a> <button id="hero-info" type="button" data-modal="title" data-tmdbid="328402" data-type="tv" class="inline-flex items-center gap-2 px-5 sm:px-7 py-2.5 sm:py-3 rounded-md bg-white/15 backdrop-blur-md text-white font-semibold hover:bg-white/25 active:scale-95 transition text-sm sm:text-base border border-white/10"> <svg class="w-4 h-4 sm:w-5 sm:h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"> <circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4M12 8h.01"></path> </svg>
+More Info
+</button>  </div> </div> </div> <!-- Carousel prev/next arrows — fade in on hover (desktop), like net52.
+           Hidden on touch (those users swipe / use the dots). z-40 so they sit
+           above the full-hero click overlay; pointer-events-auto + their own
+           click handlers stop the modal from opening when navigating. --> <button id="hero-prev" type="button" aria-label="Previous" class="hero-nav absolute left-0 sm:left-1 top-1/2 -translate-y-1/2 z-40 w-9 h-16 sm:w-12 sm:h-24 flex items-center justify-center text-white/45 hover:text-white pointer-events-auto active:scale-90 transition-colors"> <svg class="w-7 h-7 sm:w-9 sm:h-9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="filter: drop-shadow(0 1px 6px rgba(0,0,0,.9));"><path d="m15 18-6-6 6-6"></path></svg> </button> <button id="hero-next" type="button" aria-label="Next" class="hero-nav absolute right-0 sm:right-1 top-1/2 -translate-y-1/2 z-40 w-9 h-16 sm:w-12 sm:h-24 flex items-center justify-center text-white/45 hover:text-white pointer-events-auto active:scale-90 transition-colors"> <svg class="w-7 h-7 sm:w-9 sm:h-9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="filter: drop-shadow(0 1px 6px rgba(0,0,0,.9));"><path d="m9 18 6-6-6-6"></path></svg> </button> <!-- Maturity / certification badge (net52-style) — filled per slide by
+           JS from /api/catalog/cert; hidden when TMDB has no rating. --> <div id="hero-cert" class="hidden absolute bottom-3 right-4 sm:bottom-5 sm:right-8 z-30 px-2.5 py-1 rounded-md bg-white/15 backdrop-blur-md border border-white/20 text-white text-xs sm:text-sm font-semibold tracking-wide"></div> <!-- Carousel dots (rendered into by JS — count varies per platform) --> <div id="hero-dots" class="absolute bottom-3 left-1/2 -translate-x-1/2 sm:bottom-5 flex gap-1.5 z-30"> <button data-hero-dot="0" aria-label="Show featured 1" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="1" aria-label="Show featured 2" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="2" aria-label="Show featured 3" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="3" aria-label="Show featured 4" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="4" aria-label="Show featured 5" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="5" aria-label="Show featured 6" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button> </div> <!-- Hero loading overlay (shows when fetching new hero data on tab
+           switch) — uses the same honeycomb + red "N" animation as the
+           full-page loader for a consistent brand feel. Hexagons are
+           generated by JS into #hero-hive. --> <div id="hero-loading" class="absolute inset-0 z-40 bg-black/55 backdrop-blur-sm hidden items-center justify-center pointer-events-none"> <div class="relative" style="width:140px;height:140px;"> <div id="hero-hive" class="hero-hive"></div> <div class="hero-hive-n">N</div> </div> </div> </section> <!-- ─── App download + Telegram CTAs ───
+         Three primary buttons (Phone / TV / Telegram) below the hero
+         + a small fallback link to the legacy build for users whose
+         TV / older phone hits "App not installed" with the main APKs.
+         Stacked on mobile, side-by-side on tablet+. Section is hidden
+         during search (id="app-cta-section") so results take full
+         focus without the CTA buttons cluttering the screen.
+         (`.pwa-hide` removed — even installed-PWA users want to share
+         the download link with friends, so the CTAs stay visible
+         across every display mode.) --> <!-- ─── Compact app-download strip ───────────────────────────────
+         Slim single-line bar (net52-style clean flow: hero → strip →
+         rails). Keeps the app-install CTA without eating a full screen
+         of vertical space. Horizontally scrollable on tiny phones so it
+         always stays one thin line. --> <section id="app-cta-section" class="px-3 sm:px-6 pt-3 pb-1"> <div class="max-w-5xl mx-auto"> <div class="flex items-center gap-2 sm:gap-3 sm:justify-center overflow-x-auto scrollbar-none rounded-xl border border-white/10 bg-white/[0.04] px-3 py-2"> <span class="shrink-0 flex items-center gap-1.5 text-xs sm:text-sm font-semibold text-white/85 whitespace-nowrap"> <svg class="w-4 h-4 text-[color:var(--color-brand)]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"> <path d="M12 3v12m0 0l-4-4m4 4l4-4"></path><path d="M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2"></path> </svg>
+Get the app
+</span> <span class="hidden sm:block h-5 w-px bg-white/15 shrink-0"></span> <!-- Phone APK — v3.0.0 global build (arm + arm64). --> <a href="https://app.net27.cc/netmirror-3.0.1-global.apk" download class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold text-white transition active:scale-95 whitespace-nowrap" style="background: linear-gradient(180deg, var(--color-brand), var(--color-brand-dark));"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12" y2="18"></line></svg>
+Phone
+</a> <!-- TV APK — same global binary, leanback-adaptive. --> <a href="https://app.net27.cc/netmirror-3.0.1-global.apk" download class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold text-white transition active:scale-95 border border-white/15 bg-white/10 hover:bg-white/15 whitespace-nowrap"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="13" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+TV
+</a> <!-- Telegram channel --> <a href="https://t.me/netflix_mirror_apk" target="_blank" rel="noopener noreferrer" class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold text-white transition active:scale-95 border border-[#229ED9]/40 bg-[#229ED9]/15 hover:bg-[#229ED9]/25 whitespace-nowrap"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="#229ED9"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"></path></svg>
+Telegram
+</a> </div> </div> </section> <!-- Content area: multi-rail layout (Netflix-style) --> <main class="px-3 sm:px-6 py-5 sm:py-7 space-y-5 sm:space-y-7"> <!-- Rails view — populated dynamically per active platform (trending shows
+           a mixed feed; each platform shows its own category breakdown).
+           Region is hardcoded to IN throughout — NetMirror is India-focused. --> <!-- ─── Rail-loading top progress bar ───
+           Slim red bar that animates across the top of the rails area
+           when content is taking longer than 600 ms to arrive. Vanilla
+           CSS only — no JS animation library. Hidden by default;
+           buildRails() toggles the .loading-active class on body.
+           Stays in DOM (transform animation) so toggle is instant
+           and the bar always animates from the left. --> <div id="rails-loading-bar" class="relative h-[3px] mb-4 overflow-hidden bg-white/5 rounded-full opacity-0 transition-opacity duration-200" aria-hidden="true"> <div class="absolute inset-y-0 left-0 w-1/3 rails-loading-bar-track"></div> </div> <!-- min-h reserves vertical space for rails BEFORE JS populates
+           them. Without it, the page is briefly very short after the
+           hero, then jumps tall when rails render — large CLS hit.
+           60vh covers ~3 rail rows comfortably on mobile. --> <div id="rails-view" class="min-h-[60vh]"></div> <!-- Grid view — used ONLY for search results --> <div id="grid-view" class="hidden"> <div class="flex items-baseline justify-between mb-4 px-1"> <div class="flex items-center gap-3"> <div class="w-1.5 h-6 rounded-full" style="background: var(--accent, #ff6b00);"></div> <h2 id="grid-title" class="text-xl sm:text-2xl font-bold tracking-tight">Search</h2> </div> <div id="grid-meta" class="text-xs text-white/40 font-medium"></div> </div> <div id="grid-content" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 sm:gap-4"> <div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div> </div> </div> <!-- ─── Search CTA prompt ───
+           Shown below the rails once the home content scrolls past, so
+           users who didn't find what they want know they can search the
+           full TMDB catalog. Hides automatically when grid-view (search
+           results) is visible. --> <section id="search-cta" class="mt-12 sm:mt-16 py-8 sm:py-10 px-5 sm:px-8 rounded-2xl bg-gradient-to-br from-white/5 via-white/[0.03] to-transparent border border-white/10 text-center"> <div class="max-w-2xl mx-auto"> <div class="inline-flex items-center justify-center w-14 h-14 rounded-full bg-[color:var(--color-brand)]/15 mb-4"> <svg class="w-7 h-7 text-[color:var(--color-brand)]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"> <circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path> </svg> </div> <h3 class="text-lg sm:text-2xl font-bold text-white mb-2">
+Can't find what you're looking for?
+</h3> <p class="text-sm sm:text-base text-white/60 mb-5">
+Search any movie or show by name — instant results from 500k+ titles.
+</p> <button id="search-cta-btn" type="button" class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[color:var(--color-brand)] hover:bg-[color:var(--color-brand-dark)] text-white text-sm sm:text-base font-bold transition active:scale-95 shadow-lg shadow-[color:var(--color-brand)]/20"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"> <circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path> </svg>
+Search Now
+</button> <p class="text-xs text-white/40 mt-4">
+Try: <span class="text-white/60">"Stranger Things"</span> · <span class="text-white/60">"Dhurandhar"</span> · <span class="text-white/60">"Squid Game"</span> · <span class="text-white/60">"Oppenheimer"</span> </p> </div> </section> <footer class="pt-12 pb-6 border-t border-white/5 mt-12"> <div class="text-center text-xs text-white/40 space-y-1"> <div class="text-sm font-semibold text-white/70"> <span class="text-[color:var(--color-brand)]">Net</span>Mirror
+</div> <div>Movies, shows & anime · Multi-language audio · 500k+ titles</div> </div> </footer> </main> </div><!-- end relative z-10 --> <!-- ─── net52-style search overlay ──────────────────────────────
+         Full-screen dim + a big search box with a live results LIST
+         (thumbnail + title + meta rows). Opens when the header search is
+         focused; closes on ✕ / Esc / backdrop click. Result rows reuse
+         data-modal so the global click handler opens the title. --> <div id="search-overlay" class="fixed inset-0 z-[55] hidden bg-black/80 backdrop-blur-md overflow-y-auto" aria-hidden="true"> <button id="so-close" type="button" aria-label="Close search" class="fixed top-4 right-4 z-10 w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white text-xl transition">✕</button> <div class="mx-auto w-full max-w-3xl px-4 pt-[9vh] pb-24" style="padding-top: calc(env(safe-area-inset-top, 0px) + 9vh);"> <div class="flex items-center gap-2 sm:gap-3 rounded-2xl bg-[#131318] border border-[#3a2030] shadow-[0_0_0_4px_rgba(229,9,20,0.14),0_10px_30px_rgba(0,0,0,0.5)] px-3 sm:px-4 py-2.5 sm:py-3.5"> <svg class="w-5 h-5 sm:w-6 sm:h-6 text-[color:var(--color-brand)] shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg> <input id="so-input" type="search" autocomplete="off" placeholder="Search movies, shows, anime…" class="flex-1 min-w-0 bg-transparent text-base sm:text-xl text-white placeholder:text-white/45 focus:outline-none"> <button id="so-go" type="button" class="shrink-0 px-4 sm:px-6 py-1.5 sm:py-2 rounded-lg text-white font-semibold text-sm sm:text-base transition active:scale-95 hover:brightness-110" style="background: linear-gradient(180deg, var(--color-brand), var(--color-brand-dark));">Search</button> </div> <div id="so-results" class="mt-3 space-y-1"></div> </div> </div> <!-- ─────────────────────────────────────────────────────────────
+         TITLE MODAL — opens when user clicks any movie/series card.
+         Replaces the old `/title/movie/123` navigation: URL stays at "/"
+         so the title's TMDB id is never exposed in the address bar.
+    ──────────────────────────────────────────────────────────────── --> <div id="title-modal" class="fixed inset-0 z-50 hidden items-start justify-center bg-black/85 backdrop-blur-sm overflow-y-auto p-0 sm:p-6" aria-hidden="true"> <div id="title-modal-card" class="relative w-full max-w-4xl bg-[#15151c] sm:rounded-2xl shadow-2xl overflow-hidden ring-1 ring-white/10 my-0 sm:my-8"> <!-- ─── Sticky top bar with Back button ───
+             This bar replaces the absolute-positioned X cross. It's in
+             NORMAL FLOW (sticky, not absolute) so it cannot be hidden
+             behind the iPhone status bar OR landed inside iOS's
+             swipe-down gesture zone — both of which broke the old
+             cross button on PWA WebView. Whatever the status bar
+             situation, the Back button is always tappable.
+
+             padding-top: env(safe-area-inset-top) (with 44px fallback
+             via the wrapping space) ensures the bar's content sits
+             below the iPhone status bar in PWA standalone mode.
+
+             X cross also kept at top-right for desktop / sm+ where the
+             bar feels like overkill, but Back is the primary action. --> <div id="title-modal-header" class="sticky top-0 z-30 flex items-center gap-2 px-3 sm:px-4 bg-[#15151c]/95 backdrop-blur border-b border-white/10" style="padding-top: max(env(safe-area-inset-top, 0px), 8px); padding-bottom: 8px; min-height: 56px;"> <button id="title-modal-back" type="button" class="flex items-center gap-1.5 px-3 py-2 rounded-md text-white/95 hover:bg-white/10 active:bg-white/15 transition -ml-1" aria-label="Back to home"> <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"></path> </svg> <span class="text-sm font-medium">Back</span> </button> <div id="title-modal-header-title" class="flex-1 text-sm font-medium text-white/90 truncate"></div> <button id="title-modal-close" type="button" class="w-9 h-9 rounded-full hover:bg-white/10 active:bg-white/15 flex items-center justify-center text-white/90 text-lg transition" aria-label="Close">✕</button> </div> <!-- Body — populated by JS --> <div id="title-modal-body"> <div class="aspect-video bg-white/5 animate-pulse"></div> <div class="p-6 space-y-3"> <div class="h-8 w-3/4 bg-white/10 rounded animate-pulse"></div> <div class="h-4 w-1/2 bg-white/5 rounded animate-pulse"></div> <div class="h-3 w-full bg-white/5 rounded animate-pulse"></div> <div class="h-3 w-5/6 bg-white/5 rounded animate-pulse"></div> </div> </div> </div> </div> <!-- ─────────────────────────────────────────────────────────────
+         WATCH MODAL — fullscreen iframe overlay for the player.
+         Loads /watch-tmdb/[id] inside an iframe so the browser URL bar
+         stays at "/" — only the iframe's internal src has the id.
+    ──────────────────────────────────────────────────────────────── --> <div id="watch-modal" class="fixed inset-0 z-[60] hidden bg-black" aria-hidden="true"> <!-- Close button — hardcoded 72px top to bypass every cache layer
+           AND iOS's flaky env()/max() handling. See title-modal-close
+           comment above for the rationale. --> <button id="watch-modal-close" type="button" class="absolute z-[70] w-11 h-11 rounded-full bg-black/70 hover:bg-black/90 backdrop-blur flex items-center justify-center text-white text-xl transition" style="top: 72px; right: 16px;" aria-label="Close player">✕</button> <!-- Backdrop preview — shown while the player iframe loads. Movie's own
+           backdrop image fills the screen with a darkening overlay + small
+           corner spinner. Netflix/Disney+ pattern: content-first, no jarring
+           brand loader. Fades out smoothly when iframe fires onload. --> <div id="watch-modal-backdrop" class="absolute inset-0 z-[65] bg-black bg-cover bg-center pointer-events-none transition-opacity duration-500" style="opacity: 0;"> <!-- Darkening gradient — keeps backdrop tasteful, not blinding --> <div class="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-black/70"></div> <!-- Small corner spinner — subtle, professional --> <div class="absolute bottom-6 right-6 flex items-center gap-2 text-white/70 text-xs font-medium"> <div class="w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin"></div> <span>Loading…</span> </div> </div> <iframe id="watch-modal-iframe" class="w-full h-full border-0" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="no-referrer"></iframe> </div> <!-- Trailer iframe (YouTube). Rendered separately so it can sit on top
+         of the title modal if user clicks Trailer from there. --> <div id="trailer-modal" class="fixed inset-0 z-[55] hidden items-center justify-center bg-black/95 p-4"> <!-- Hardcoded 72px top — bypasses cache + iOS env()/max() flakiness. --> <button id="trailer-modal-close" type="button" class="absolute z-10 w-11 h-11 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white text-xl" style="top: 72px; right: 16px;">✕</button> <div class="w-full max-w-5xl aspect-video"> <iframe id="trailer-modal-iframe" class="w-full h-full rounded-lg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div> </div> </div>  </main>  <!-- ─── Service Worker registration ───────────────────────────────
+         The SW is regenerated on every build (BUILD_ID changes), so
+         iOS WKWebView byte-diffs it on next launch, runs install →
+         activate, and we call client.navigate() in `activate` to force
+         every open PWA window to reload with fresh HTML.
+
+         Without this, an iOS PWA install can serve stale HTML for DAYS
+         (WKWebView has its own NSURLCache that doesn't expire on
+         Cloudflare's max-age alone). With this, updates land on next
+         app launch automatically — no "delete and re-add" needed. --> <script>
+      if("serviceWorker" in navigator){window.addEventListener("load",function(){var hadController=!!navigator.serviceWorker.controller;navigator.serviceWorker.register("/sw.js",{scope:"/"}).then(function(r){r.addEventListener("updatefound",function(){var s=r.installing;s&&s.addEventListener("statechange",function(){if(s.state==="installed"&&navigator.serviceWorker.controller)try{r.waiting&&r.waiting.postMessage({type:"SKIP_WAITING"})}catch(e){}})})}).catch(function(){});var p=false;function d(){if(!p)return;p=false;location.replace(location.href)}navigator.serviceWorker.addEventListener("controllerchange",function(){if(!hadController)return;if(p)return;p=true;document.addEventListener("visibilitychange",function(){if(document.visibilityState==="visible")d()});var t=setTimeout(d,60000);var r=function(){clearTimeout(t);t=setTimeout(d,60000)};["click","scroll","touchstart"].forEach(function(e){window.addEventListener(e,r,{passive:true})})})})}
+    </script> <!-- ─── Display-mode tag on <html> ───
+         Tags <html data-display-mode="standalone|fullscreen|browser">
+         on first paint and on every display-mode flip, so CSS can
+         hide install CTAs / safe-area-adjust / restyle for PWA-only
+         surfaces without JS in component code. --> <script>
+      (function(){
+        function mode(){
+          if(matchMedia('(display-mode: fullscreen)').matches) return 'fullscreen';
+          if(matchMedia('(display-mode: standalone)').matches) return 'standalone';
+          if(navigator.standalone===true) return 'standalone';
+          return 'browser';
+        }
+        function tag(){document.documentElement.setAttribute('data-display-mode', mode());}
+        tag();
+        try{matchMedia('(display-mode: standalone)').addEventListener('change', tag);}catch(e){}
+        try{matchMedia('(display-mode: fullscreen)').addEventListener('change', tag);}catch(e){}
+      })();
+    </script> <!-- ─── Google Analytics 4 (gtag.js) ───
+         Replaces our custom Supabase-backed tracking endpoint. GA4
+         handles installs (web), DAU/MAU, country/device breakdown,
+         real-time, retention, funnels — all in their dashboard with
+         zero backend on our side. Property: netmirror-10d19. PWA
+         standalone visits are tagged via a custom `platform` user
+         property so we can filter web-vs-pwa in GA. --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-LQWQME8JFF"></script> <script>(function(){const gaId = "G-LQWQME8JFF";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      // Tag PWA-standalone visits so GA can segment them from regular web.
+      var __nm_standalone = (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) || window.navigator.standalone === true;
+      gtag('config', gaId, {
+        send_page_view: true,
+        custom_map: { dimension1: 'platform' }
+      });
+      gtag('set', 'user_properties', { platform: __nm_standalone ? 'pwa' : 'web' });
+    })();</script> </body> </html>  <script type="module" src="/_astro/index.astro_astro_type_script_index_0_lang.DI15MgJt.js"></script>
+
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="clckd" content="502623715d0616ada312531d38452d6c"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#000000"><meta name="description" content="Stream movies and shows. Personal streaming hub."><!-- (Cache-control meta tags removed — they're ignored by WebKit on
+         the document itself, and the service worker handles staleness
+         for installed PWAs. Removing them saves render-blocking parse
+         time on every page load.) --><!-- ─── Search engine indexing — blocked sitewide ─── --><!-- Anti-DMCA defense: copyright watchers search Google for piracy URLs.
+         No indexing = no Google = no easy DMCA discovery. Combined with
+         robots.txt this gives ~85% reduction in bot-based takedown traffic. --><meta name="robots" content="noindex, nofollow, nocache, noarchive, nosnippet, noimageindex"><meta name="googlebot" content="noindex, nofollow"><meta name="bingbot" content="noindex, nofollow"><!-- LCP preload — fetched in parallel with HTML, drops perceived load
+         time by 300-500ms because browser doesn't wait for image discovery
+         in the rendered DOM. --><link rel="preload" as="image" href="https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg" fetchpriority="high"><!-- DNS prefetch + preconnect to image CDNs (TMDB images) for faster
+         first connection — saves ~200ms on the first poster/backdrop. --><link rel="dns-prefetch" href="https://image.tmdb.org"><link rel="preconnect" href="https://image.tmdb.org" crossorigin><!-- ─── PWA manifest + favicons ─── --><link rel="manifest" href="/manifest.json"><!-- Brand favicon — takes precedence so each brand shows its own mark
+         (Cineby = red play button). Generic PNG icons below as fallback. --><link rel="icon" href="/icons/icon-32.png"><link rel="icon" type="image/png" sizes="32x32" href="/icons/icon-32.png"><link rel="icon" type="image/png" sizes="16x16" href="/icons/icon-16.png"><link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png"><!-- ─── iOS Safari PWA support — Add to Home Screen ─── --><!-- Tells iOS Safari this app supports standalone mode (full-screen) --><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><!-- Status bar style: "default" — iOS reserves the status bar area
+         itself instead of overlaying it on our content. Tried
+         "black-translucent" earlier but it was the #1 source of layout
+         bugs (env(safe-area-inset-top) returns 0 on first paint per
+         WebKit bug 191872, backdrop-blur conflicts, sticky-position
+         clipping on iOS 18+). "default" is the boring, reliable choice:
+         we lose the edge-to-edge cosmetic but the navbar / search /
+         buttons all sit cleanly BELOW the status bar without any
+         env() / max() / sticky gymnastics. --><meta name="apple-mobile-web-app-status-bar-style" content="default"><!-- Home-screen title (different from <title> which is the tab title) --><meta name="apple-mobile-web-app-title" content="NetMirror"><!-- iOS reads this for the home-screen icon — 180x180 is iPhone optimal --><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-180.png"><!-- iPhone splash screen while app loads (matches our black bg) --><meta name="format-detection" content="telephone=no"><style type="text/css">@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Inter;font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}</style><title>NetMirror — Movies &amp; Shows in 200+ Languages</title><!-- Minimal PWA detection (tags <html> for CSS conditional rules)
+         + cold-start URL recovery. Stripped of all comments for
+         smaller render-blocking parse cost. --><script>(function(){try{var s=(window.matchMedia&&window.matchMedia("(display-mode: standalone)").matches)||window.navigator.standalone===true;if(!s)return;var d=document.documentElement;d.classList.add("pwa-standalone");var ih=window.innerHeight||0,sh=(window.screen&&window.screen.height)||0;if(sh>0&&Math.abs(ih-sh)<5)d.classList.add("content-under-status-bar");if(!sessionStorage.getItem("pwa.launched")){sessionStorage.setItem("pwa.launched","1");if(!/^\/(library|login|search|watch-tmdb|$)/.test(location.pathname))location.replace("/?utm_source=pwa");}}catch(e){}})();</script><link rel="stylesheet" href="/_astro/Layout.DtKIDK6r.css">
+<link rel="stylesheet" href="/_astro/index.P3dZcbru.css"></head> <body class="min-h-dvh flex flex-col overflow-x-hidden"> <!-- ─── Branded honeycomb loading screen ─── --> <div id="nm-loader" aria-hidden="true"> <div class="nm-hive" id="nm-hive"></div> <div class="nm-loader-n">N</div> </div> <style>
+      #nm-loader{position:fixed;inset:0;z-index:99999;background:#0b0b0f;display:flex;align-items:center;justify-content:center;transition:opacity .45s ease;}
+      #nm-loader.nm-hide{opacity:0;pointer-events:none;}
+      #nm-loader .nm-hive{position:relative;width:210px;height:210px;}
+      #nm-loader .nm-hex{position:absolute;width:27px;height:31px;transform:translate(-50%,-50%);clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);background:rgba(255,255,255,.07);animation:nmHexPulse 1.5s ease-in-out infinite;}
+      #nm-loader .nm-loader-n{position:absolute;font-weight:900;font-size:46px;color:#e50914;text-shadow:0 0 18px rgba(229,9,20,.55);font-family:system-ui,-apple-system,sans-serif;letter-spacing:-2px;}
+      @keyframes nmHexPulse{0%,100%{background:rgba(255,255,255,.07);transform:translate(-50%,-50%) scale(.92);}45%{background:#e50914;box-shadow:0 0 14px rgba(229,9,20,.5);transform:translate(-50%,-50%) scale(1);}}
+    </style> <script>
+      (function(){
+        var hive=document.getElementById('nm-hive'); if(!hive) return;
+        var S=16, cx=105, cy=105, R=2;
+        for(var q=-R;q<=R;q++){ for(var r=Math.max(-R,-q-R); r<=Math.min(R,-q+R); r++){
+          var x=cx + S*Math.sqrt(3)*(q + r/2), y=cy + S*1.5*r;
+          var ring=(Math.abs(q)+Math.abs(r)+Math.abs(q+r))/2;
+          var h=document.createElement('div'); h.className='nm-hex';
+          h.style.left=x+'px'; h.style.top=y+'px'; h.style.animationDelay=(ring*0.16)+'s';
+          hive.appendChild(h);
+        }}
+        var loader=document.getElementById('nm-loader'); var start=Date.now();
+        function hide(){ var wait=Math.max(0,500-(Date.now()-start)); setTimeout(function(){ if(!loader)return; loader.classList.add('nm-hide'); setTimeout(function(){ loader.style.display='none'; },500); }, wait); }
+        window.__nmHideLoader=hide;
+        if(document.readyState==='complete') hide(); else window.addEventListener('load', hide);
+      })();
+    </script>  <main class="flex-1">  <div class="min-h-dvh bg-[#0a0a0f] text-white relative"> <!-- Per-platform color wash. Fixed at top, fades down. JS updates --accent
+         on platform click; transition gives a smooth crossfade. --> <div id="theme-wash" class="pointer-events-none fixed inset-x-0 top-0 h-[60vh] z-0 transition-opacity duration-700" style="background: radial-gradient(ellipse at top, var(--accent, #ff6b00) 0%, transparent 65%); opacity: 0.18;"></div> <!-- Top progress bar: shows while any fetch is in flight (YouTube/NProgress style) --> <div id="progress-bar" class="fixed top-0 left-0 h-[3px] z-[60] pointer-events-none transition-opacity duration-200" style="background: var(--accent, #ff6b00); width: 0; opacity: 0; box-shadow: 0 0 10px var(--accent, #ff6b00);"></div> <div class="relative z-10"> <!-- Sticky header.
+         INLINE padding-top with max(env(...), 44px) floor — handles
+         iPhone PWA where the status bar overlays our content. Inline
+         style ships byte-for-byte in the HTML response (same as the
+         modal back-bar which works reliably), so it bypasses every
+         caching / Tailwind-JIT / CSS-bundling / class-detection issue
+         that broke the dozen previous attempts.
+
+         max() with 44px floor: covers both the env-returns-0
+         first-paint race (WebKit bug 191872) AND cached old-install
+         users whose iOS still draws content under the status bar. --> <header id="home-header" class="fixed top-0 inset-x-0 z-40"> <div class="px-3 sm:px-6 py-3 flex items-center gap-3"> <a href="/" class="flex items-center gap-2 shrink-0"> <span class="text-xl sm:text-2xl font-black tracking-tight"> <span class="text-[color:var(--color-brand)]">Net</span>Mirror
+</span> </a> <div class="relative flex-1 max-w-xl mx-auto"> <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-white/40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"> <circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path> </svg> <input id="search-input" type="search" placeholder="Search movies, shows, anime…" class="w-full pl-9 pr-9 py-2 rounded-full bg-white/10 border border-white/10 placeholder:text-white/40 focus:outline-none focus:border-white/30 focus:bg-white/15 transition" style="font-size: 16px;"> <button id="search-clear" type="button" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-white/40 hover:text-white text-sm w-5 h-5 rounded-full flex items-center justify-center">✕</button> </div> <!-- Expose the auth-enabled flag to client JS (watchlist wiring). --> <script>(function(){const __ae = false;
+window.__AUTH_ENABLED__ = __ae;})();</script> <!-- Auth pill — hidden entirely when login disabled (BRAND.authEnabled) -->  </div> <div class="px-3 sm:px-6 pb-3 flex gap-2 overflow-x-auto scrollbar-none"> <button data-platform="trending" data-color="#ff6b00" style="--pc:#ff6b00" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <span class="w-7 h-7 rounded-full shrink-0 flex items-center justify-center bg-gradient-to-br from-amber-400 to-red-500 shadow-sm"> <svg viewBox="0 0 24 24" class="w-4 h-4 text-white" fill="currentColor" aria-hidden="true"> <path d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z"></path> </svg> </span> <span>Trending</span> </button><button data-platform="LatestRelease" data-color="#22c55e" style="--pc:#22c55e" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <span class="w-7 h-7 rounded-full shrink-0 flex items-center justify-center shadow-sm" style="background: linear-gradient(135deg, #22c55e 0%, rgba(0,0,0,0.4) 100%);"> <svg viewBox="0 0 24 24" class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/></svg> </span> <span>Latest Release</span> </button><button data-platform="Netflix" data-color="#e50914" style="--pc:#e50914" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg" alt="Netflix" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>Netflix</span> </button><button data-platform="PrimeVideo" data-color="#00a8e1" style="--pc:#00a8e1" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg" alt="Prime Video" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>Prime Video</span> </button><button data-platform="JioHotstar" data-color="#2b6def" style="--pc:#2b6def" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/kVqjgpcwvDJOhCupjcLzwwtOp52.jpg" alt="JioHotstar" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>JioHotstar</span> </button><button data-platform="SonyLIV" data-color="#9b5de5" style="--pc:#9b5de5" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/3973zlBbBXdXxaWqRWzGG2GYxbT.jpg" alt="SonyLIV" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>SonyLIV</span> </button><button data-platform="Crunchyroll" data-color="#f47521" style="--pc:#f47521" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg" alt="Crunchyroll" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>Crunchyroll</span> </button><button data-platform="Kids" data-color="#ff4fa3" style="--pc:#ff4fa3" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <span class="w-7 h-7 rounded-full shrink-0 flex items-center justify-center shadow-sm" style="background: linear-gradient(135deg, #ff4fa3 0%, rgba(0,0,0,0.4) 100%);"> <svg viewBox="0 0 24 24" class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" x2="9.01" y1="9" y2="9"/><line x1="15" x2="15.01" y1="9" y2="9"/></svg> </span> <span>Kids</span> </button><button data-platform="MX" data-color="#0085f6" style="--pc:#0085f6" class="platform-btn shrink-0 pl-1 pr-3 py-1 rounded-full text-xs font-semibold border border-white/15 transition bg-white/5 flex items-center gap-2 whitespace-nowrap text-white/80"> <img src="https://image.tmdb.org/t/p/w92/ayHY6wKxvCKj2PU8eRPFxnPc6B0.jpg" alt="MX Player" class="w-7 h-7 rounded-full object-cover shrink-0 bg-white shadow-sm" loading="lazy" decoding="async"> <span>MX Player</span> </button> </div> </header> <!-- PWA-only top safe-area. In a standalone (installed) app the status
+         bar / dynamic island overlays the page, so without this the search +
+         pills land under the notch/notification area and can't be tapped.
+         In a normal web browser there's NO notch, so we add no top padding —
+         that removes the empty gap above the search bar. JS (not a CSS media
+         query) because env() in `@media (display-mode: standalone)` has been
+         unreliable on cached iOS PWA installs (WebKit bug 191872). Runs inline
+         the moment the header is parsed, before first paint. --> <script>
+      (function () {
+        try {
+          var standalone =
+            (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) ||
+            window.navigator.standalone === true;
+          if (!standalone) return;
+          var h = document.getElementById('home-header');
+          if (!h) return;
+          h.style.setProperty('padding-top', 'max(env(safe-area-inset-top, 0px), 44px)', 'important');
+        } catch (e) {}
+      })();
+    </script> <!-- Hero carousel: 5 rotating featured titles --> <section id="hero" class="relative h-[64vh] sm:h-[80vh] min-h-[520px] sm:min-h-[680px] max-h-[940px] overflow-hidden" style="padding-top: calc(env(safe-area-inset-top, 0px) + 150px);" data-hero="[{&quot;tmdbId&quot;:328402,&quot;title&quot;:&quot;Adarsh Baal Vidyalaya&quot;,&quot;year&quot;:&quot;&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg&quot;,&quot;overview&quot;:&quot;A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.&quot;,&quot;rating&quot;:8,&quot;type&quot;:&quot;tv&quot;},{&quot;tmdbId&quot;:158282,&quot;title&quot;:&quot;Lock Upp&quot;,&quot;year&quot;:&quot;&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/original/h3E2I2etWs5l7OCsRLU9Bz3cSnK.jpg&quot;,&quot;overview&quot;:&quot;Lockupp is a 24*7 captive reality show which has 16 celebrities locked inside the queen’s jail for 72 days. Who will survive the badass jail and play atyachaari khel?&quot;,&quot;rating&quot;:8.7,&quot;type&quot;:&quot;tv&quot;},{&quot;tmdbId&quot;:634649,&quot;title&quot;:&quot;Spider-Man: No Way Home&quot;,&quot;year&quot;:&quot;2021&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg&quot;,&quot;overview&quot;:&quot;Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.&quot;,&quot;rating&quot;:7.934,&quot;type&quot;:&quot;movie&quot;},{&quot;tmdbId&quot;:1311031,&quot;title&quot;:&quot;Demon Slayer: Kimetsu no Yaiba Infinity Castle&quot;,&quot;year&quot;:&quot;2025&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg&quot;,&quot;overview&quot;:&quot;The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.&quot;,&quot;rating&quot;:8.445,&quot;type&quot;:&quot;movie&quot;},{&quot;tmdbId&quot;:687163,&quot;title&quot;:&quot;Project Hail Mary&quot;,&quot;year&quot;:&quot;2026&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg&quot;,&quot;overview&quot;:&quot;Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.&quot;,&quot;rating&quot;:8.662,&quot;type&quot;:&quot;movie&quot;},{&quot;tmdbId&quot;:1007757,&quot;title&quot;:&quot;Swapped&quot;,&quot;year&quot;:&quot;2026&quot;,&quot;backdrop&quot;:&quot;https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg&quot;,&quot;overview&quot;:&quot;A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.&quot;,&quot;rating&quot;:8.893,&quot;type&quot;:&quot;movie&quot;}]"> <!-- Crossfade backdrop layers --> <div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg&quot;); opacity: 1; z-index: 10" data-hero-idx="0"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/original/h3E2I2etWs5l7OCsRLU9Bz3cSnK.jpg&quot;); opacity: 0; z-index: 9" data-hero-idx="1"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg&quot;); opacity: 0; z-index: 8" data-hero-idx="2"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg&quot;); opacity: 0; z-index: 7" data-hero-idx="3"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg&quot;); opacity: 0; z-index: 6" data-hero-idx="4"></div><div class="hero-bg absolute inset-0 bg-cover bg-center transition-opacity duration-[1200ms]" style="background-image: url(&quot;https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg&quot;); opacity: 0; z-index: 5" data-hero-idx="5"></div> <!-- Clickable overlay — entire hero image opens the title modal so
+           users can tap anywhere on the poster (not just buttons). Sits
+           BELOW the gradient masks + content layers but ABOVE the bg images.
+           id="hero-click" lets the slide-changer JS keep its data-* attrs in
+           sync with whatever hero item is currently visible. --> <button id="hero-click" type="button" data-modal="title" data-tmdbid="328402" data-type="tv" aria-label="More info for Adarsh Baal Vidyalaya" class="absolute inset-0 z-[15] cursor-pointer bg-transparent border-0"></button> <!-- Gradient masks for legibility --> <div class="absolute inset-0 bg-gradient-to-t from-[#0a0a0f] via-[#0a0a0f]/40 to-transparent pointer-events-none z-20"></div> <div class="absolute inset-0 bg-gradient-to-r from-[#0a0a0f] via-[#0a0a0f]/30 to-transparent pointer-events-none z-20"></div> <!-- Hero content (text rotates with the bg). The outer container is
+           pointer-events-none so empty areas around the text don't block
+           clicks on the hero-click overlay underneath. Inner content has
+           pointer-events-auto so buttons + text remain interactive. --> <div class="relative z-30 h-full flex items-end pb-8 sm:pb-16 pointer-events-none"> <div class="px-4 sm:pl-16 sm:pr-8 max-w-3xl pointer-events-auto"> <div class="text-[10px] sm:text-xs uppercase tracking-[0.3em] text-[color:var(--color-brand)] font-bold mb-2">
+🔥 Trending Now
+</div> <!-- min-h reserves space for the worst-case 2-line title so the
+               layout doesn't shift when the carousel rotates from a
+               short title ("Mortal Kombat") to a long one ("The Devil
+               Wears Prada"). Same logic for the description's 2/3 lines.
+               Was the #1 CLS contributor on PageSpeed (0.306 → target <0.1). --> <!-- Official title-logo (premium, net52-style). Shown when TMDB has
+               one; falls back to the text <h1> below otherwise. --> <img id="hero-logo" alt="" class="hidden mb-3 h-auto max-h-[84px] sm:max-h-[150px] w-auto max-w-[80%] sm:max-w-[460px] object-contain object-left" style="filter: drop-shadow(0 3px 16px rgba(0,0,0,0.7));"> <h1 id="hero-title" class="text-3xl sm:text-5xl md:text-6xl font-black mb-3 leading-[1.05] tracking-tight min-h-[2.1em]" style="text-shadow: 0 2px 24px rgba(0,0,0,0.6);"> Adarsh Baal Vidyalaya </h1> <div id="hero-meta" class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs sm:text-sm text-white/85 mb-3 font-medium min-h-[1.5em]"> <span class="px-1.5 py-0.5 rounded bg-yellow-400/90 text-black font-bold text-[11px]">⭐ 8.0</span><span></span> <span>·</span> <span class="uppercase tracking-wider">Series</span> <span class="px-1.5 py-0.5 rounded bg-white/15 text-[10px] tracking-wider">HD</span>  </div> <div id="hero-desc" class="text-sm sm:text-base text-white/85 max-w-2xl mb-5 line-clamp-2 sm:line-clamp-3 leading-relaxed min-h-[3em] sm:min-h-[4.5em]" style="text-shadow: 0 1px 8px rgba(0,0,0,0.6);"> A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time. </div> <div class="flex flex-wrap gap-3">  <a id="hero-play" href="#" data-modal="watch" data-tmdbid="328402" data-type="tv" data-backdrop="https://image.tmdb.org/t/p/original/KuURjmH4i9RXOp5ANocM4AiJy9.jpg" class="inline-flex items-center gap-2 px-5 sm:px-7 py-2.5 sm:py-3 rounded-md bg-white text-black font-bold hover:bg-white/90 active:scale-95 transition text-sm sm:text-base shadow-xl"> <svg class="w-4 h-4 sm:w-5 sm:h-5" viewBox="0 0 24 24" fill="currentColor"> <path d="M8 5v14l11-7z"></path> </svg>
+Watch Now
+</a> <button id="hero-info" type="button" data-modal="title" data-tmdbid="328402" data-type="tv" class="inline-flex items-center gap-2 px-5 sm:px-7 py-2.5 sm:py-3 rounded-md bg-white/15 backdrop-blur-md text-white font-semibold hover:bg-white/25 active:scale-95 transition text-sm sm:text-base border border-white/10"> <svg class="w-4 h-4 sm:w-5 sm:h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"> <circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4M12 8h.01"></path> </svg>
+More Info
+</button>  </div> </div> </div> <!-- Carousel prev/next arrows — fade in on hover (desktop), like net52.
+           Hidden on touch (those users swipe / use the dots). z-40 so they sit
+           above the full-hero click overlay; pointer-events-auto + their own
+           click handlers stop the modal from opening when navigating. --> <button id="hero-prev" type="button" aria-label="Previous" class="hero-nav absolute left-0 sm:left-1 top-1/2 -translate-y-1/2 z-40 w-9 h-16 sm:w-12 sm:h-24 flex items-center justify-center text-white/45 hover:text-white pointer-events-auto active:scale-90 transition-colors"> <svg class="w-7 h-7 sm:w-9 sm:h-9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="filter: drop-shadow(0 1px 6px rgba(0,0,0,.9));"><path d="m15 18-6-6 6-6"></path></svg> </button> <button id="hero-next" type="button" aria-label="Next" class="hero-nav absolute right-0 sm:right-1 top-1/2 -translate-y-1/2 z-40 w-9 h-16 sm:w-12 sm:h-24 flex items-center justify-center text-white/45 hover:text-white pointer-events-auto active:scale-90 transition-colors"> <svg class="w-7 h-7 sm:w-9 sm:h-9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="filter: drop-shadow(0 1px 6px rgba(0,0,0,.9));"><path d="m9 18 6-6-6-6"></path></svg> </button> <!-- Maturity / certification badge (net52-style) — filled per slide by
+           JS from /api/catalog/cert; hidden when TMDB has no rating. --> <div id="hero-cert" class="hidden absolute bottom-3 right-4 sm:bottom-5 sm:right-8 z-30 px-2.5 py-1 rounded-md bg-white/15 backdrop-blur-md border border-white/20 text-white text-xs sm:text-sm font-semibold tracking-wide"></div> <!-- Carousel dots (rendered into by JS — count varies per platform) --> <div id="hero-dots" class="absolute bottom-3 left-1/2 -translate-x-1/2 sm:bottom-5 flex gap-1.5 z-30"> <button data-hero-dot="0" aria-label="Show featured 1" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="1" aria-label="Show featured 2" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="2" aria-label="Show featured 3" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="3" aria-label="Show featured 4" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="4" aria-label="Show featured 5" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button><button data-hero-dot="5" aria-label="Show featured 6" class="hero-dot w-2 h-2 rounded-full bg-white/30 hover:bg-white/60 transition"></button> </div> <!-- Hero loading overlay (shows when fetching new hero data on tab
+           switch) — uses the same honeycomb + red "N" animation as the
+           full-page loader for a consistent brand feel. Hexagons are
+           generated by JS into #hero-hive. --> <div id="hero-loading" class="absolute inset-0 z-40 bg-black/55 backdrop-blur-sm hidden items-center justify-center pointer-events-none"> <div class="relative" style="width:140px;height:140px;"> <div id="hero-hive" class="hero-hive"></div> <div class="hero-hive-n">N</div> </div> </div> </section> <!-- ─── App download + Telegram CTAs ───
+         Three primary buttons (Phone / TV / Telegram) below the hero
+         + a small fallback link to the legacy build for users whose
+         TV / older phone hits "App not installed" with the main APKs.
+         Stacked on mobile, side-by-side on tablet+. Section is hidden
+         during search (id="app-cta-section") so results take full
+         focus without the CTA buttons cluttering the screen.
+         (`.pwa-hide` removed — even installed-PWA users want to share
+         the download link with friends, so the CTAs stay visible
+         across every display mode.) --> <!-- ─── Compact app-download strip ───────────────────────────────
+         Slim single-line bar (net52-style clean flow: hero → strip →
+         rails). Keeps the app-install CTA without eating a full screen
+         of vertical space. Horizontally scrollable on tiny phones so it
+         always stays one thin line. --> <section id="app-cta-section" class="px-3 sm:px-6 pt-3 pb-1"> <div class="max-w-5xl mx-auto"> <div class="flex items-center gap-2 sm:gap-3 sm:justify-center overflow-x-auto scrollbar-none rounded-xl border border-white/10 bg-white/[0.04] px-3 py-2"> <span class="shrink-0 flex items-center gap-1.5 text-xs sm:text-sm font-semibold text-white/85 whitespace-nowrap"> <svg class="w-4 h-4 text-[color:var(--color-brand)]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"> <path d="M12 3v12m0 0l-4-4m4 4l4-4"></path><path d="M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2"></path> </svg>
+Get the app
+</span> <span class="hidden sm:block h-5 w-px bg-white/15 shrink-0"></span> <!-- Phone APK — v3.0.0 global build (arm + arm64). --> <a href="https://app.net27.cc/netmirror-3.0.1-global.apk" download class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold text-white transition active:scale-95 whitespace-nowrap" style="background: linear-gradient(180deg, var(--color-brand), var(--color-brand-dark));"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12" y2="18"></line></svg>
+Phone
+</a> <!-- TV APK — same global binary, leanback-adaptive. --> <a href="https://app.net27.cc/netmirror-3.0.1-global.apk" download class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold text-white transition active:scale-95 border border-white/15 bg-white/10 hover:bg-white/15 whitespace-nowrap"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="13" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+TV
+</a> <!-- Telegram channel --> <a href="https://t.me/netflix_mirror_apk" target="_blank" rel="noopener noreferrer" class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold text-white transition active:scale-95 border border-[#229ED9]/40 bg-[#229ED9]/15 hover:bg-[#229ED9]/25 whitespace-nowrap"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="#229ED9"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"></path></svg>
+Telegram
+</a> </div> </div> </section> <!-- Content area: multi-rail layout (Netflix-style) --> <main class="px-3 sm:px-6 py-5 sm:py-7 space-y-5 sm:space-y-7"> <!-- Rails view — populated dynamically per active platform (trending shows
+           a mixed feed; each platform shows its own category breakdown).
+           Region is hardcoded to IN throughout — NetMirror is India-focused. --> <!-- ─── Rail-loading top progress bar ───
+           Slim red bar that animates across the top of the rails area
+           when content is taking longer than 600 ms to arrive. Vanilla
+           CSS only — no JS animation library. Hidden by default;
+           buildRails() toggles the .loading-active class on body.
+           Stays in DOM (transform animation) so toggle is instant
+           and the bar always animates from the left. --> <div id="rails-loading-bar" class="relative h-[3px] mb-4 overflow-hidden bg-white/5 rounded-full opacity-0 transition-opacity duration-200" aria-hidden="true"> <div class="absolute inset-y-0 left-0 w-1/3 rails-loading-bar-track"></div> </div> <!-- min-h reserves vertical space for rails BEFORE JS populates
+           them. Without it, the page is briefly very short after the
+           hero, then jumps tall when rails render — large CLS hit.
+           60vh covers ~3 rail rows comfortably on mobile. --> <div id="rails-view" class="min-h-[60vh]"></div> <!-- Grid view — used ONLY for search results --> <div id="grid-view" class="hidden"> <div class="flex items-baseline justify-between mb-4 px-1"> <div class="flex items-center gap-3"> <div class="w-1.5 h-6 rounded-full" style="background: var(--accent, #ff6b00);"></div> <h2 id="grid-title" class="text-xl sm:text-2xl font-bold tracking-tight">Search</h2> </div> <div id="grid-meta" class="text-xs text-white/40 font-medium"></div> </div> <div id="grid-content" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 sm:gap-4"> <div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div><div class="aspect-video rounded-lg bg-white/5 animate-pulse"></div> </div> </div> <!-- ─── Search CTA prompt ───
+           Shown below the rails once the home content scrolls past, so
+           users who didn't find what they want know they can search the
+           full TMDB catalog. Hides automatically when grid-view (search
+           results) is visible. --> <section id="search-cta" class="mt-12 sm:mt-16 py-8 sm:py-10 px-5 sm:px-8 rounded-2xl bg-gradient-to-br from-white/5 via-white/[0.03] to-transparent border border-white/10 text-center"> <div class="max-w-2xl mx-auto"> <div class="inline-flex items-center justify-center w-14 h-14 rounded-full bg-[color:var(--color-brand)]/15 mb-4"> <svg class="w-7 h-7 text-[color:var(--color-brand)]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"> <circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path> </svg> </div> <h3 class="text-lg sm:text-2xl font-bold text-white mb-2">
+Can't find what you're looking for?
+</h3> <p class="text-sm sm:text-base text-white/60 mb-5">
+Search any movie or show by name — instant results from 500k+ titles.
+</p> <button id="search-cta-btn" type="button" class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[color:var(--color-brand)] hover:bg-[color:var(--color-brand-dark)] text-white text-sm sm:text-base font-bold transition active:scale-95 shadow-lg shadow-[color:var(--color-brand)]/20"> <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"> <circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path> </svg>
+Search Now
+</button> <p class="text-xs text-white/40 mt-4">
+Try: <span class="text-white/60">"Stranger Things"</span> · <span class="text-white/60">"Dhurandhar"</span> · <span class="text-white/60">"Squid Game"</span> · <span class="text-white/60">"Oppenheimer"</span> </p> </div> </section> <footer class="pt-12 pb-6 border-t border-white/5 mt-12"> <div class="text-center text-xs text-white/40 space-y-1"> <div class="text-sm font-semibold text-white/70"> <span class="text-[color:var(--color-brand)]">Net</span>Mirror
+</div> <div>Movies, shows & anime · Multi-language audio · 500k+ titles</div> </div> </footer> </main> </div><!-- end relative z-10 --> <!-- ─── net52-style search overlay ──────────────────────────────
+         Full-screen dim + a big search box with a live results LIST
+         (thumbnail + title + meta rows). Opens when the header search is
+         focused; closes on ✕ / Esc / backdrop click. Result rows reuse
+         data-modal so the global click handler opens the title. --> <div id="search-overlay" class="fixed inset-0 z-[55] hidden bg-black/80 backdrop-blur-md overflow-y-auto" aria-hidden="true"> <button id="so-close" type="button" aria-label="Close search" class="fixed top-4 right-4 z-10 w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white text-xl transition">✕</button> <div class="mx-auto w-full max-w-3xl px-4 pt-[9vh] pb-24" style="padding-top: calc(env(safe-area-inset-top, 0px) + 9vh);"> <div class="flex items-center gap-2 sm:gap-3 rounded-2xl bg-[#131318] border border-[#3a2030] shadow-[0_0_0_4px_rgba(229,9,20,0.14),0_10px_30px_rgba(0,0,0,0.5)] px-3 sm:px-4 py-2.5 sm:py-3.5"> <svg class="w-5 h-5 sm:w-6 sm:h-6 text-[color:var(--color-brand)] shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg> <input id="so-input" type="search" autocomplete="off" placeholder="Search movies, shows, anime…" class="flex-1 min-w-0 bg-transparent text-base sm:text-xl text-white placeholder:text-white/45 focus:outline-none"> <button id="so-go" type="button" class="shrink-0 px-4 sm:px-6 py-1.5 sm:py-2 rounded-lg text-white font-semibold text-sm sm:text-base transition active:scale-95 hover:brightness-110" style="background: linear-gradient(180deg, var(--color-brand), var(--color-brand-dark));">Search</button> </div> <div id="so-results" class="mt-3 space-y-1"></div> </div> </div> <!-- ─────────────────────────────────────────────────────────────
+         TITLE MODAL — opens when user clicks any movie/series card.
+         Replaces the old `/title/movie/123` navigation: URL stays at "/"
+         so the title's TMDB id is never exposed in the address bar.
+    ──────────────────────────────────────────────────────────────── --> <div id="title-modal" class="fixed inset-0 z-50 hidden items-start justify-center bg-black/85 backdrop-blur-sm overflow-y-auto p-0 sm:p-6" aria-hidden="true"> <div id="title-modal-card" class="relative w-full max-w-4xl bg-[#15151c] sm:rounded-2xl shadow-2xl overflow-hidden ring-1 ring-white/10 my-0 sm:my-8"> <!-- ─── Sticky top bar with Back button ───
+             This bar replaces the absolute-positioned X cross. It's in
+             NORMAL FLOW (sticky, not absolute) so it cannot be hidden
+             behind the iPhone status bar OR landed inside iOS's
+             swipe-down gesture zone — both of which broke the old
+             cross button on PWA WebView. Whatever the status bar
+             situation, the Back button is always tappable.
+
+             padding-top: env(safe-area-inset-top) (with 44px fallback
+             via the wrapping space) ensures the bar's content sits
+             below the iPhone status bar in PWA standalone mode.
+
+             X cross also kept at top-right for desktop / sm+ where the
+             bar feels like overkill, but Back is the primary action. --> <div id="title-modal-header" class="sticky top-0 z-30 flex items-center gap-2 px-3 sm:px-4 bg-[#15151c]/95 backdrop-blur border-b border-white/10" style="padding-top: max(env(safe-area-inset-top, 0px), 8px); padding-bottom: 8px; min-height: 56px;"> <button id="title-modal-back" type="button" class="flex items-center gap-1.5 px-3 py-2 rounded-md text-white/95 hover:bg-white/10 active:bg-white/15 transition -ml-1" aria-label="Back to home"> <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"></path> </svg> <span class="text-sm font-medium">Back</span> </button> <div id="title-modal-header-title" class="flex-1 text-sm font-medium text-white/90 truncate"></div> <button id="title-modal-close" type="button" class="w-9 h-9 rounded-full hover:bg-white/10 active:bg-white/15 flex items-center justify-center text-white/90 text-lg transition" aria-label="Close">✕</button> </div> <!-- Body — populated by JS --> <div id="title-modal-body"> <div class="aspect-video bg-white/5 animate-pulse"></div> <div class="p-6 space-y-3"> <div class="h-8 w-3/4 bg-white/10 rounded animate-pulse"></div> <div class="h-4 w-1/2 bg-white/5 rounded animate-pulse"></div> <div class="h-3 w-full bg-white/5 rounded animate-pulse"></div> <div class="h-3 w-5/6 bg-white/5 rounded animate-pulse"></div> </div> </div> </div> </div> <!-- ─────────────────────────────────────────────────────────────
+         WATCH MODAL — fullscreen iframe overlay for the player.
+         Loads /watch-tmdb/[id] inside an iframe so the browser URL bar
+         stays at "/" — only the iframe's internal src has the id.
+    ──────────────────────────────────────────────────────────────── --> <div id="watch-modal" class="fixed inset-0 z-[60] hidden bg-black" aria-hidden="true"> <!-- Close button — hardcoded 72px top to bypass every cache layer
+           AND iOS's flaky env()/max() handling. See title-modal-close
+           comment above for the rationale. --> <button id="watch-modal-close" type="button" class="absolute z-[70] w-11 h-11 rounded-full bg-black/70 hover:bg-black/90 backdrop-blur flex items-center justify-center text-white text-xl transition" style="top: 72px; right: 16px;" aria-label="Close player">✕</button> <!-- Backdrop preview — shown while the player iframe loads. Movie's own
+           backdrop image fills the screen with a darkening overlay + small
+           corner spinner. Netflix/Disney+ pattern: content-first, no jarring
+           brand loader. Fades out smoothly when iframe fires onload. --> <div id="watch-modal-backdrop" class="absolute inset-0 z-[65] bg-black bg-cover bg-center pointer-events-none transition-opacity duration-500" style="opacity: 0;"> <!-- Darkening gradient — keeps backdrop tasteful, not blinding --> <div class="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-black/70"></div> <!-- Small corner spinner — subtle, professional --> <div class="absolute bottom-6 right-6 flex items-center gap-2 text-white/70 text-xs font-medium"> <div class="w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin"></div> <span>Loading…</span> </div> </div> <iframe id="watch-modal-iframe" class="w-full h-full border-0" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="no-referrer"></iframe> </div> <!-- Trailer iframe (YouTube). Rendered separately so it can sit on top
+         of the title modal if user clicks Trailer from there. --> <div id="trailer-modal" class="fixed inset-0 z-[55] hidden items-center justify-center bg-black/95 p-4"> <!-- Hardcoded 72px top — bypasses cache + iOS env()/max() flakiness. --> <button id="trailer-modal-close" type="button" class="absolute z-10 w-11 h-11 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white text-xl" style="top: 72px; right: 16px;">✕</button> <div class="w-full max-w-5xl aspect-video"> <iframe id="trailer-modal-iframe" class="w-full h-full rounded-lg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div> </div> </div>  </main>  <!-- ─── Service Worker registration ───────────────────────────────
+         The SW is regenerated on every build (BUILD_ID changes), so
+         iOS WKWebView byte-diffs it on next launch, runs install →
+         activate, and we call client.navigate() in `activate` to force
+         every open PWA window to reload with fresh HTML.
+
+         Without this, an iOS PWA install can serve stale HTML for DAYS
+         (WKWebView has its own NSURLCache that doesn't expire on
+         Cloudflare's max-age alone). With this, updates land on next
+         app launch automatically — no "delete and re-add" needed. --> <script>
+      if("serviceWorker" in navigator){window.addEventListener("load",function(){var hadController=!!navigator.serviceWorker.controller;navigator.serviceWorker.register("/sw.js",{scope:"/"}).then(function(r){r.addEventListener("updatefound",function(){var s=r.installing;s&&s.addEventListener("statechange",function(){if(s.state==="installed"&&navigator.serviceWorker.controller)try{r.waiting&&r.waiting.postMessage({type:"SKIP_WAITING"})}catch(e){}})})}).catch(function(){});var p=false;function d(){if(!p)return;p=false;location.replace(location.href)}navigator.serviceWorker.addEventListener("controllerchange",function(){if(!hadController)return;if(p)return;p=true;document.addEventListener("visibilitychange",function(){if(document.visibilityState==="visible")d()});var t=setTimeout(d,60000);var r=function(){clearTimeout(t);t=setTimeout(d,60000)};["click","scroll","touchstart"].forEach(function(e){window.addEventListener(e,r,{passive:true})})})})}
+    </script> <!-- ─── Display-mode tag on <html> ───
+         Tags <html data-display-mode="standalone|fullscreen|browser">
+         on first paint and on every display-mode flip, so CSS can
+         hide install CTAs / safe-area-adjust / restyle for PWA-only
+         surfaces without JS in component code. --> <script>
+      (function(){
+        function mode(){
+          if(matchMedia('(display-mode: fullscreen)').matches) return 'fullscreen';
+          if(matchMedia('(display-mode: standalone)').matches) return 'standalone';
+          if(navigator.standalone===true) return 'standalone';
+          return 'browser';
+        }
+        function tag(){document.documentElement.setAttribute('data-display-mode', mode());}
+        tag();
+        try{matchMedia('(display-mode: standalone)').addEventListener('change', tag);}catch(e){}
+        try{matchMedia('(display-mode: fullscreen)').addEventListener('change', tag);}catch(e){}
+      })();
+    </script> <!-- ─── Google Analytics 4 (gtag.js) ───
+         Replaces our custom Supabase-backed tracking endpoint. GA4
+         handles installs (web), DAU/MAU, country/device breakdown,
+         real-time, retention, funnels — all in their dashboard with
+         zero backend on our side. Property: netmirror-10d19. PWA
+         standalone visits are tagged via a custom `platform` user
+         property so we can filter web-vs-pwa in GA. --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-LQWQME8JFF"></script> <script>(function(){const gaId = "G-LQWQME8JFF";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      // Tag PWA-standalone visits so GA can segment them from regular web.
+      var __nm_standalone = (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) || window.navigator.standalone === true;
+      gtag('config', gaId, {
+        send_page_view: true,
+        custom_map: { dimension1: 'platform' }
+      });
+      gtag('set', 'user_properties', { platform: __nm_standalone ? 'pwa' : 'web' });
+    })();</script> </body> </html>  <script type="module" src="/_astro/index.astro_astro_type_script_index_0_lang.DI15MgJt.js"></script>
+    build a full scraper/crawler system for net27.cc that:
+    
+    - Fetches all content metadata (movies, series, categories) from the site
+    - Captures video CDN IDs and signed URLs using Puppeteer (browser automation)
+    - Stores everything in PostgreSQL with proper schema for movies, series/seasons/episodes
+    - Auto-updates on a schedule
+    Found the video API: `/api/embed-tmdb/{tmdbId}?type={type}&se={season}&ep={episode}`
+    The API is goldmine. The embed API gives: mp4 URL, CDN content ID (`subjectId`), multiple quality streams, captions, and IMDB ID. 50,249 movies + 9,108 TV shows available via paginated catalog. No browser needed — let me completely rewrite the scraper.
+    The site uses `/api/catalog/discover` for content and `/api/embed-tmdb/{id}?type={type}&se={season}&ep={episode}` for video URLs. Let me completely rewrite the scraper to use these APIs directly — no Playwright needed.
+Full catalog scrape	fetch_discover paginates through /api/catalog/discover.
+Video CDN URLs & signed tokens	fetch_embed calls /api/embed-tmdb/{id} – returns the exact MP4 URLs you need for playback.
+Relational storage	SQLAlchemy models (Movie, Season, Episode) map 1‑to‑many relationships; PostgreSQL holds everything.
+Auto‑update	APScheduler runs scrape_all on a configurable interval (default 6 h).
+Extensible	Add new tables (e.g., User, Rating) without touching the core fetcher; just extend the models and the scrape_all logic.
+Uses the public NetMirror APIs (/api/catalog/discover and /api/embed-tmdb/{id}?type={type}&se={season}&ep={episode}) – no Playwright needed.
+Persists everything in PostgreSQL with a clean relational schema for movies, series, seasons, episodes, and metadata.
+Runs automatically on a schedule (via APScheduler) so new content is fetched and stored in near‑real‑time. 
+    No Playwright	Pure HTTP calls – lightweight, fast, and works behind any corporate proxy.
