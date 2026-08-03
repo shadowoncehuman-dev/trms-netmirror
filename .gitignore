@@ -47,3 +47,7 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# Large binary assets - don't commit to git
+attached_assets/
+dist/

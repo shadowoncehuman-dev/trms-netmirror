@@ -1,45 +1,91 @@
-# [Project name]
+# NetMirror Scraper & Crawler
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A full scraper/crawler backend for net27.cc (NetMirror) that fetches all content metadata (movies, TV series, episodes), video CDN URLs, and images — storing everything in PostgreSQL for reuse and proper video playback.
 
 ## Run & Operate
 
-- `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
+- `pnpm --filter @workspace/api-server run dev` — run the API server (port 8080)
 - `pnpm run typecheck` — full typecheck across all packages
 - `pnpm run build` — typecheck + build all packages
-- `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
 - `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
-- Required env: `DATABASE_URL` — Postgres connection string
+- Required env: `DATABASE_URL` — Postgres connection string (auto-provisioned by Replit)
 
 ## Stack
 
 - pnpm workspaces, Node.js 24, TypeScript 5.9
 - API: Express 5
 - DB: PostgreSQL + Drizzle ORM
-- Validation: Zod (`zod/v4`), `drizzle-zod`
-- API codegen: Orval (from OpenAPI spec)
-- Build: esbuild (CJS bundle)
+- Scraping: Playwright-core (headless Chromium) + Cheerio for HTML parsing
+- Scheduling: node-cron (auto-updates every 6h metadata, daily 3am full)
+- Source site: https://net27.cc (NetMirror)
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `lib/db/src/schema/content.ts` — DB schema: content, episodes, video_sources, scraper_jobs tables
+- `artifacts/api-server/src/lib/scraper.ts` — core scraper/crawler logic
+- `artifacts/api-server/src/routes/content.ts` — content API routes
+- `artifacts/api-server/src/routes/scraper.ts` — scraper control routes
+
+## API Endpoints
+
+### Content
+- `GET /api/content` — list all content (query: `type`, `category`, `q`, `page`, `limit`)
+- `GET /api/content/categories` — list all categories
+- `GET /api/content/:tmdbId/:type` — get title with video sources and episodes
+- `GET /api/content/:tmdbId/:type/video?quality=480&season=1&episode=1` — get playable video URL (auto-refreshes if expired)
+- `GET /api/content/:tmdbId/:type/episodes` — get all episodes grouped by season
+
+### Scraper Control
+- `POST /api/scraper/start` — start a scrape job (`{"type": "full"|"metadata"|"video"}`)
+- `GET /api/scraper/status` — current job status + recent jobs
+- `GET /api/scraper/jobs/:id` — specific job detail with full log
+- `POST /api/scraper/stop` — stop the active scrape job
+
+## Scraper Job Types
+
+| Type | Description |
+|------|-------------|
+| `full` | Fetch metadata + video URLs for all content |
+| `metadata` | Fetch/update content metadata only (fast, no video) |
+| `video` | Refresh video CDN URLs only |
+| `update_check` | Light check for new content |
+
+## Video URL System
+
+Video URLs from the CDN (`net27-r2-cache.bupcdn74213.workers.dev`) are signed and time-limited. The scraper:
+1. Extracts the internal CDN content ID (`/v1/{cdnId}/s{season}/e{episode}/{quality}.mp4`)
+2. Stores the full signed URL + expiry timestamp
+3. Auto-refreshes via Playwright when a URL is expired on-demand
+
+## Schedule
+
+- Every 6 hours: metadata-only scrape (new content discovery)
+- Daily at 3am: full scrape (metadata + video URL refresh)
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- Content identified by `(tmdb_id, type)` unique pair matching the site's own ID system
+- Video URLs stored with expiry — refreshed on-demand when serving to avoid constant re-fetching
+- Sequential scraping with 2s delay between items to be respectful of the source
+- Playwright downloads its own Chromium binary — stored in `.cache/ms-playwright/`
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+A scraper/API backend that crawls net27.cc for:
+- All movies and TV shows across 15+ category sections (Trending, Netflix, Bollywood, etc.)
+- For series: all seasons and episodes
+- Video CDN paths and signed playback URLs at multiple qualities (480p, 720p, 1080p)
+- Poster and backdrop images (TMDB CDN URLs)
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Sequential fetch: one item at a time → save → next (respectful crawling)
+- All content from site should be fetched and stored in database
+- Video URLs must be playable and refreshable
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
-
-## Pointers
-
-- See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details
+- Playwright Chromium is in `.cache/ms-playwright/` — if the repl is reset, run `npx playwright install chromium`
+- Video signed URLs expire (hours to days) — always call `/video` endpoint which auto-refreshes
+- The site is a JS SPA (Astro) — plain fetch only gets hero carousel; Playwright gets all category rows
+- `pnpm --filter @workspace/db run push-force` if schema push fails with column conflicts

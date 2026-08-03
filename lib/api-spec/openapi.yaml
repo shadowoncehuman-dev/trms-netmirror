@@ -1,22 +1,27 @@
 openapi: 3.1.0
 info:
-  # Do not change the title, if the title changes, the import paths will be broken
   title: Api
   version: 0.1.0
-  description: API specification
+  description: NetMirror content API — movies, TV series, live TV, and scraper control
 servers:
   - url: /api
     description: Base API path
 tags:
   - name: health
     description: Health operations
+  - name: content
+    description: Movie and TV content
+  - name: scraper
+    description: Scraper job control
+  - name: live
+    description: Live TV channels
+
 paths:
   /healthz:
     get:
       operationId: healthCheck
       tags: [health]
       summary: Health check
-      description: Returns server health status
       responses:
         "200":
           description: Healthy
@@ -24,13 +29,563 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/HealthStatus"
+
+  /content:
+    get:
+      operationId: listContent
+      tags: [content]
+      summary: List all content
+      parameters:
+        - name: type
+          in: query
+          schema: { type: string, enum: [movie, tv] }
+        - name: category
+          in: query
+          schema: { type: string }
+        - name: q
+          in: query
+          schema: { type: string }
+        - name: page
+          in: query
+          schema: { type: number, default: 1 }
+        - name: limit
+          in: query
+          schema: { type: number, default: 20 }
+      responses:
+        "200":
+          description: Paginated content list
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ContentListResponse"
+
+  /content/categories:
+    get:
+      operationId: listCategories
+      tags: [content]
+      summary: List all content categories
+      responses:
+        "200":
+          description: Category list
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CategoriesResponse"
+
+  /content/search:
+    get:
+      operationId: searchContent
+      tags: [content]
+      summary: Search content locally and remotely
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema: { type: string, minLength: 2 }
+      responses:
+        "200":
+          description: Search results
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SearchResponse"
+
+  /content/subject/{subjectId}:
+    get:
+      operationId: getContentBySubjectId
+      tags: [content]
+      summary: Get content by AoneRoom subjectId
+      parameters:
+        - name: subjectId
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Content detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ContentDetailResponse"
+        "404":
+          description: Not found
+
+  /content/{tmdbId}/{type}:
+    get:
+      operationId: getContent
+      tags: [content]
+      summary: Get content by TMDB ID and type
+      parameters:
+        - name: tmdbId
+          in: path
+          required: true
+          schema: { type: number }
+        - name: type
+          in: path
+          required: true
+          schema: { type: string, enum: [movie, tv] }
+      responses:
+        "200":
+          description: Content detail with video sources and episodes
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ContentDetailResponse"
+        "404":
+          description: Not found
+
+  /content/{tmdbId}/{type}/video:
+    get:
+      operationId: getVideoUrl
+      tags: [content]
+      summary: Get playable video URL (auto-refreshes if expired)
+      parameters:
+        - name: tmdbId
+          in: path
+          required: true
+          schema: { type: number }
+        - name: type
+          in: path
+          required: true
+          schema: { type: string, enum: [movie, tv] }
+        - name: quality
+          in: query
+          schema: { type: string, enum: ["480", "720", "1080"], default: "480" }
+        - name: season
+          in: query
+          schema: { type: number, default: 1 }
+        - name: episode
+          in: query
+          schema: { type: number, default: 1 }
+      responses:
+        "200":
+          description: Video URL with all quality options
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/VideoUrlResponse"
+        "404":
+          description: Not found
+        "503":
+          description: Video URL expired and refresh failed
+
+  /content/{tmdbId}/{type}/episodes:
+    get:
+      operationId: getEpisodes
+      tags: [content]
+      summary: Get TV episodes grouped by season
+      parameters:
+        - name: tmdbId
+          in: path
+          required: true
+          schema: { type: number }
+        - name: type
+          in: path
+          required: true
+          schema: { type: string, enum: [tv] }
+      responses:
+        "200":
+          description: Episodes grouped by season
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/EpisodesResponse"
+        "404":
+          description: Not found
+
+  /scraper/status:
+    get:
+      operationId: getScraperStatus
+      tags: [scraper]
+      summary: Get scraper status and recent jobs
+      responses:
+        "200":
+          description: Scraper status
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ScraperStatus"
+
+  /scraper/jobs/{id}:
+    get:
+      operationId: getScraperJob
+      tags: [scraper]
+      summary: Get a specific scraper job with full log
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: number }
+      responses:
+        "200":
+          description: Job detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ScraperJobResponse"
+        "404":
+          description: Job not found
+
+  /scraper/start:
+    post:
+      operationId: startScraper
+      tags: [scraper]
+      summary: Start a scraper job
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/ScraperStartInput"
+      responses:
+        "202":
+          description: Job started
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ScraperStartResponse"
+        "409":
+          description: A job is already running
+
+  /scraper/stop:
+    post:
+      operationId: stopScraper
+      tags: [scraper]
+      summary: Stop the active scraper job
+      responses:
+        "200":
+          description: Stopped
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok: { type: boolean }
+                required: [ok]
+
+  /live/channels:
+    get:
+      operationId: listLiveChannels
+      tags: [live]
+      summary: List live TV channels
+      parameters:
+        - name: group
+          in: query
+          schema: { type: string }
+      responses:
+        "200":
+          description: Live TV channels
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/LiveChannelsResponse"
+
+  /live/groups:
+    get:
+      operationId: listLiveGroups
+      tags: [live]
+      summary: List live TV channel groups
+      responses:
+        "200":
+          description: Channel groups
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/LiveGroupsResponse"
+
+  /live/refresh:
+    post:
+      operationId: refreshLiveChannels
+      tags: [live]
+      summary: Re-scrape live TV M3U8 and update channel status
+      responses:
+        "200":
+          description: Refreshed
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok: { type: boolean }
+                  count: { type: number }
+                required: [ok, count]
+
 components:
   schemas:
     HealthStatus:
       type: object
       properties:
-        status:
-          type: string
-      required:
-        - status
+        status: { type: string }
+      required: [status]
 
+    ContentItem:
+      type: object
+      properties:
+        id: { type: number }
+        tmdbId: { type: ["number", "null"] }
+        subjectId: { type: ["string", "null"] }
+        type: { type: string, enum: [movie, tv] }
+        title: { type: string }
+        year: { type: ["string", "null"] }
+        rating: { type: ["number", "null"] }
+        overview: { type: ["string", "null"] }
+        posterPath: { type: ["string", "null"] }
+        backdropPath: { type: ["string", "null"] }
+        genre: { type: ["string", "null"] }
+        hueDark: { type: ["string", "null"] }
+        detailPath: { type: ["string", "null"] }
+        categories: { type: array, items: { type: string } }
+        qualities: { type: ["array", "null"], items: { type: string } }
+        scrapedOk: { type: ["boolean", "null"] }
+        dubs:
+          type: ["array", "null"]
+          items:
+            type: object
+            properties:
+              subjectId: { type: string }
+              lanName: { type: string }
+              lanCode: { type: string }
+              detailPath: { type: string }
+            required: [subjectId, lanName, lanCode, detailPath]
+      required: [id, type, title]
+
+    ContentListResponse:
+      type: object
+      properties:
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/ContentItem"
+        pagination:
+          type: object
+          properties:
+            page: { type: number }
+            limit: { type: number }
+            total: { type: number }
+          required: [page, limit, total]
+      required: [data, pagination]
+
+    CategoriesResponse:
+      type: object
+      properties:
+        categories:
+          type: array
+          items: { type: string }
+      required: [categories]
+
+    RemoteContentItem:
+      type: object
+      properties:
+        subjectId: { type: string }
+        type: { type: string, enum: [movie, tv] }
+        title: { type: string }
+        year: { type: ["string", "null"] }
+        poster: { type: ["string", "null"] }
+        rating: { type: ["number", "null"] }
+        genre: { type: ["string", "null"] }
+        detailPath: { type: ["string", "null"] }
+      required: [subjectId, type, title]
+
+    SearchResponse:
+      type: object
+      properties:
+        local:
+          type: array
+          items:
+            $ref: "#/components/schemas/ContentItem"
+        remote:
+          type: array
+          items:
+            $ref: "#/components/schemas/RemoteContentItem"
+      required: [local, remote]
+
+    VideoSource:
+      type: object
+      properties:
+        id: { type: number }
+        contentId: { type: number }
+        episodeId: { type: ["number", "null"] }
+        server: { type: number }
+        quality: { type: string }
+        url: { type: string }
+        expiresAt: { type: ["string", "null"] }
+      required: [id, contentId, server, quality, url]
+
+    Episode:
+      type: object
+      properties:
+        id: { type: number }
+        contentId: { type: number }
+        seasonNum: { type: number }
+        episodeNum: { type: number }
+        cdnContentId: { type: ["string", "null"] }
+        qualities: { type: ["array", "null"], items: { type: string } }
+      required: [id, contentId, seasonNum, episodeNum]
+
+    ContentDetailResponse:
+      type: object
+      properties:
+        content:
+          $ref: "#/components/schemas/ContentItem"
+        videoSources:
+          type: array
+          items:
+            $ref: "#/components/schemas/VideoSource"
+        episodes:
+          type: array
+          items:
+            $ref: "#/components/schemas/Episode"
+        live: { type: ["boolean", "null"] }
+      required: [content]
+
+    QualityOption:
+      type: object
+      properties:
+        quality: { type: string }
+        url: { type: string }
+        server: { type: number }
+      required: [quality, url, server]
+
+    Caption:
+      type: object
+      properties:
+        lang: { type: string }
+        name: { type: string }
+        url: { type: string }
+      required: [lang, name, url]
+
+    VideoStream:
+      type: object
+      properties:
+        url: { type: string }
+        resolution: { type: number }
+        size: { type: ["number", "null"] }
+      required: [url, resolution]
+
+    VideoUrlResponse:
+      type: object
+      properties:
+        url: { type: string }
+        quality: { type: string }
+        server: { type: ["number", "null"] }
+        expiresAt: { type: ["string", "null"] }
+        contentId: { type: ["number", "null"] }
+        allQualities:
+          type: ["array", "null"]
+          items:
+            $ref: "#/components/schemas/QualityOption"
+        streams:
+          type: ["array", "null"]
+          items:
+            $ref: "#/components/schemas/VideoStream"
+        captions:
+          type: ["array", "null"]
+          items:
+            $ref: "#/components/schemas/Caption"
+        live: { type: ["boolean", "null"] }
+      required: [url, quality]
+
+    EpisodesResponse:
+      type: object
+      properties:
+        title: { type: string }
+        seasons:
+          type: object
+          additionalProperties:
+            type: array
+            items:
+              $ref: "#/components/schemas/Episode"
+        totalEpisodes: { type: number }
+      required: [title, seasons, totalEpisodes]
+
+    LogEntry:
+      type: object
+      properties:
+        ts: { type: string }
+        msg: { type: string }
+      required: [ts, msg]
+
+    ScraperJob:
+      type: object
+      properties:
+        id: { type: number }
+        status: { type: string, enum: [pending, running, done, failed] }
+        jobType: { type: string }
+        totalItems: { type: ["number", "null"] }
+        processedItems: { type: ["number", "null"] }
+        failedItems: { type: ["number", "null"] }
+        currentItem: { type: ["string", "null"] }
+        log:
+          type: ["array", "null"]
+          items:
+            $ref: "#/components/schemas/LogEntry"
+        startedAt: { type: ["string", "null"] }
+        completedAt: { type: ["string", "null"] }
+        createdAt: { type: string }
+      required: [id, status, jobType, createdAt]
+
+    ScraperStatus:
+      type: object
+      properties:
+        isRunning: { type: boolean }
+        activeJobId: { type: ["number", "null"] }
+        recentJobs:
+          type: array
+          items:
+            $ref: "#/components/schemas/ScraperJob"
+      required: [isRunning, recentJobs]
+
+    ScraperJobResponse:
+      type: object
+      properties:
+        job:
+          $ref: "#/components/schemas/ScraperJob"
+      required: [job]
+
+    ScraperStartInput:
+      type: object
+      properties:
+        type:
+          type: string
+          enum: [full, metadata, video, update_check, live_tv]
+          default: metadata
+      required: [type]
+
+    ScraperStartResponse:
+      type: object
+      properties:
+        jobId: { type: number }
+        message: { type: string }
+        statusUrl: { type: string }
+      required: [jobId, message, statusUrl]
+
+    LiveChannel:
+      type: object
+      properties:
+        id: { type: number }
+        channelId: { type: string }
+        name: { type: string }
+        group: { type: ["string", "null"] }
+        logo: { type: ["string", "null"] }
+        streamUrl: { type: string }
+        licenseType: { type: ["string", "null"] }
+        licenseKey: { type: ["string", "null"] }
+        isUp: { type: ["boolean", "null"] }
+      required: [id, channelId, name, streamUrl]
+
+    LiveChannelsResponse:
+      type: object
+      properties:
+        channels:
+          type: array
+          items:
+            $ref: "#/components/schemas/LiveChannel"
+      required: [channels]
+
+    LiveGroupsResponse:
+      type: object
+      properties:
+        groups:
+          type: array
+          items: { type: string }
+      required: [groups]

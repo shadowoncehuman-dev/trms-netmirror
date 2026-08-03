@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/viewer/"
+title = "NetMirror Viewer"
+description = "Full-featured streaming content viewer for NetMirror. Browse movies, TV series, and anime from net27.cc. Includes search, content detail pages, video playback, live TV channels, and scraper controls."
+version = "1.0.0"
+id = "artifacts/viewer"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/viewer/" ]
+localPort = 19557
+
+[services.development]
+run = "pnpm --filter @workspace/viewer run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/viewer", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/viewer/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19557"
+BASE_PATH = "/viewer/"
